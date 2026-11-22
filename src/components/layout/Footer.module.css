@@ -1,0 +1,124 @@
+/* Global footer (Figma 1:350 desktop, 1:641 mobile). */
+.footer {
+  background: var(--color-brand-dark);
+  border-top: var(--border-on-dark);
+  color: var(--color-brand-cream);
+  padding: 49px 0 48px;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.logo {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 37px;
+  color: var(--color-brand-white);
+}
+.desc {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-brand-parchment);
+  max-width: 384px;
+}
+.columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-6);
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.heading {
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: var(--color-brand-brass);
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.link {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-brand-cream);
+  text-underline-offset: 3px;
+  transition: color var(--motion-standard) var(--motion-ease);
+}
+.link:hover {
+  color: var(--color-brand-white);
+  text-decoration: underline;
+}
+.link:focus-visible {
+  outline-color: var(--color-brand-cream);
+}
+.desktopOnlyCol {
+  display: none;
+}
+.mobileOnly {
+  display: list-item;
+}
+
+@media (min-width: 900px) {
+  .footer {
+    padding: 65px 0 64px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 40px;
+  }
+  .brand {
+    grid-column: 1 / span 5;
+    gap: var(--space-4);
+  }
+  .columns {
+    display: contents;
+  }
+  .col {
+    gap: var(--space-3);
+  }
+  .heading {
+    letter-spacing: 0.6px;
+  }
+  .colShop {
+    grid-column: 6 / span 2;
+  }
+  .colAccount {
+    grid-column: 8 / span 3;
+  }
+  .colAbout {
+    grid-column: 11 / span 2;
+  }
+  .link {
+    display: inline-block;
+    padding: 1.5px 0;
+  }
+  .desktopOnlyCol {
+    display: flex;
+  }
+  .mobileOnly {
+    display: none;
+  }
+  .accountHeadingMobile {
+    display: none;
+  }
+}
+@media (max-width: 899px) {
+  .accountHeadingDesktop {
+    display: none;
+  }
+}

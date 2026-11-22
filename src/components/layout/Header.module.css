@@ -1,0 +1,432 @@
+/* Global header (Figma 1:385 desktop 72px, 1:669 mobile 64px). Geometry identical on every page. */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-header);
+  background: var(--color-brand-cream);
+  border-bottom: var(--border-subtle);
+}
+.inner {
+  height: 64px;
+  max-width: var(--container-main);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: grid;
+  grid-template-columns: 44px 1fr auto;
+  align-items: center;
+  gap: var(--space-2);
+}
+.logo {
+  justify-self: center;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.8px;
+  color: var(--color-brand-espresso);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+}
+.menuButton {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--color-brand-espresso);
+}
+.menuButton:hover {
+  background: var(--color-brand-parchment);
+}
+.nav {
+  display: none;
+}
+.utilities {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+.account {
+  display: none;
+}
+.cart {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  height: 44px;
+  min-width: 44px;
+  padding: 0 9px;
+  background: var(--color-brand-white);
+  border: var(--border-default);
+  border-radius: var(--radius-md);
+  color: var(--color-brand-espresso);
+  font-size: var(--type-button);
+  line-height: 17px;
+  font-weight: 600;
+  transition: background-color var(--motion-standard) var(--motion-ease), border-color var(--motion-standard) var(--motion-ease);
+}
+.cart:hover {
+  background: var(--color-brand-parchment);
+}
+.cartActive {
+  border-color: var(--color-brand-saddle);
+  box-shadow: inset 0 0 0 1px var(--color-brand-saddle);
+}
+/* Visually hidden on mobile (icon-only design) but still part of the accessible name. */
+.cartLabel {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+.count {
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5.6px;
+  border-radius: var(--radius-pill);
+  background: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+  font-weight: 600;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (min-width: 900px) {
+  .inner {
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .menuButton {
+    display: none;
+  }
+  .logo {
+    justify-self: auto;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-8);
+  }
+  .navLink {
+    padding: 8px 0 10px;
+    border-bottom: 2px solid transparent;
+    font-size: var(--type-button);
+    line-height: 17px;
+    font-weight: 600;
+    color: var(--color-neutral-950);
+    transition: color var(--motion-standard) var(--motion-ease), border-color var(--motion-standard) var(--motion-ease);
+  }
+  .navLink:hover {
+    color: var(--color-brand-saddle);
+  }
+  .navLink[aria-current="page"] {
+    color: var(--color-brand-saddle);
+    border-bottom-color: var(--color-brand-saddle);
+  }
+  .account {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    min-height: 44px;
+    padding: var(--space-3);
+    border-radius: var(--radius-md);
+    font-size: var(--type-button);
+    line-height: 17px;
+    font-weight: 600;
+    color: var(--color-neutral-950);
+    transition: background-color var(--motion-standard) var(--motion-ease);
+  }
+  .account:hover {
+    background: var(--color-neutral-100);
+  }
+  .account[aria-current="page"] {
+    background: var(--color-brand-parchment);
+    color: var(--color-brand-saddle);
+  }
+  .cart {
+    gap: var(--space-2);
+    padding: 12px 13px;
+    min-height: 44px;
+    height: auto;
+  }
+  .cartLabel {
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    clip: auto;
+  }
+}
+
+/* ---------- Mobile navigation drawer (not designed in Figma; composed from tokens) ---------- */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay);
+  background: rgba(29, 21, 17, 0.48);
+  animation: fadeIn var(--motion-standard) var(--motion-ease);
+}
+.drawer {
+  position: fixed;
+  z-index: calc(var(--z-overlay) + 1);
+  inset: 0 auto 0 0;
+  width: min(360px, 88vw);
+  background: var(--color-brand-cream);
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+  animation: slideIn var(--motion-standard) var(--motion-ease);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.drawerHead {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--space-5);
+  border-bottom: var(--border-subtle);
+}
+.drawerTitle {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 32px;
+  color: var(--color-brand-espresso);
+}
+.drawerNav {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-4) var(--space-5);
+  gap: var(--space-1);
+  overflow-y: auto;
+}
+.drawerLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 52px;
+  padding: 0 var(--space-3);
+  border-radius: var(--radius-md);
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.drawerLink:hover {
+  background: var(--color-brand-parchment);
+}
+.drawerLink[aria-current="page"] {
+  color: var(--color-brand-saddle);
+  background: var(--color-brand-parchment);
+}
+.drawerDivider {
+  height: 1px;
+  background: var(--color-neutral-200);
+  margin: var(--space-3) 0;
+}
+.drawerSecondary {
+  font-size: 16px;
+  font-weight: 500;
+}
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+}
+
+/* ---------- Account control: signed in ---------- */
+.accountWrap {
+  position: relative;
+}
+/* Mobile: avatar-only button (the drawer also lists account links). */
+.accountSignedIn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: 44px;
+  min-width: 44px;
+  padding: 4px;
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--color-neutral-950);
+  font-size: var(--type-button);
+  font-weight: 600;
+  line-height: 17px;
+  transition: background-color var(--motion-standard) var(--motion-ease);
+}
+.accountSignedIn:hover,
+.accountActive {
+  background: var(--color-brand-parchment);
+}
+.accountText,
+.chevron {
+  display: none;
+}
+.avatar,
+.avatarLarge {
+  display: inline-grid;
+  place-items: center;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-brand-saddle), var(--color-brand-espresso));
+  color: #f3e3c4;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  box-shadow:
+    0 0 0 2px var(--color-brand-cream),
+    0 0 0 3px var(--color-brand-brass);
+}
+.avatar {
+  width: 32px;
+  height: 32px;
+  font-size: 12px;
+}
+.avatarLarge {
+  width: 44px;
+  height: 44px;
+  font-size: 15px;
+}
+.accountText {
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+.accountHello {
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 500;
+  color: var(--color-neutral-700);
+}
+.accountName {
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevron {
+  transition: transform 300ms var(--motion-ease);
+}
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
+.menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 10px);
+  z-index: 60;
+  width: 280px;
+  padding: var(--space-2);
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 24px 48px -16px rgba(43, 29, 23, 0.35);
+  transform-origin: top right;
+  animation: menuIn 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.menuHead,
+.drawerAccount {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3);
+}
+.menuHead {
+  margin-bottom: var(--space-1);
+  border-bottom: var(--border-subtle);
+}
+.menuWho {
+  min-width: 0;
+}
+.menuName {
+  font-weight: 600;
+  color: var(--color-brand-espresso);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.menuEmail {
+  font-size: 12px;
+  color: var(--color-neutral-700);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.menuList {
+  display: flex;
+  flex-direction: column;
+}
+.menuItem {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  width: 100%;
+  min-height: 40px;
+  padding: 0 var(--space-3);
+  border: 0;
+  border-radius: var(--radius-md);
+  background: transparent;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-neutral-950);
+  text-align: left;
+  transition: background-color var(--motion-standard) var(--motion-ease), color var(--motion-standard) var(--motion-ease);
+}
+.menuItem:hover,
+.menuItem[aria-current="page"] {
+  background: var(--color-brand-parchment);
+  color: var(--color-brand-saddle);
+}
+.menuSignOut {
+  margin-top: var(--space-1);
+  border-top: var(--border-subtle);
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  color: var(--color-brand-saddle);
+}
+.drawerSignOut {
+  width: 100%;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  color: var(--color-brand-saddle);
+}
+@keyframes menuIn {
+  from {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.97);
+  }
+}
+
+@media (min-width: 900px) {
+  .accountSignedIn {
+    padding: 6px 10px 6px 6px;
+    border-radius: var(--radius-pill);
+  }
+  .accountText {
+    display: flex;
+  }
+  .chevron {
+    display: block;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .menu {
+    animation: none;
+  }
+}

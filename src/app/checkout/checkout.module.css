@@ -1,0 +1,159 @@
+/* Checkout — not designed in Figma; composed from the Cart layout and form components. */
+.intro {
+  border-bottom: var(--border-subtle);
+  padding: 32px 0;
+}
+.introText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+@media (min-width: 900px) {
+  .intro {
+    padding: 40px 0 25px;
+  }
+}
+.main {
+  padding: 24px 0 48px;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+@media (min-width: 900px) {
+  .main {
+    padding: 64px 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 357px;
+    gap: 40px;
+    align-items: start;
+  }
+}
+.card {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 21px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+@media (min-width: 900px) {
+  .card {
+    padding: 33px;
+  }
+}
+.cardTitle {
+  font-size: var(--type-h4);
+  line-height: var(--lh-h4);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.fields {
+  display: grid;
+  gap: var(--space-5);
+}
+@media (min-width: 640px) {
+  .two {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.item {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+}
+.itemThumb {
+  position: relative;
+  width: 56px;
+  aspect-ratio: 4 / 5;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  flex: none;
+  background: var(--color-brand-parchment);
+}
+.itemThumb img {
+  object-fit: cover;
+}
+.itemText {
+  flex: 1;
+  min-width: 0;
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+.itemName {
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.itemPrice {
+  font-size: var(--type-body-s);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.rows {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-top: var(--space-4);
+  border-top: var(--border-subtle);
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+.row dd {
+  color: var(--color-neutral-950);
+  text-align: right;
+}
+.total {
+  padding-top: var(--space-3);
+  border-top: var(--border-subtle);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+  font-size: var(--type-body);
+}
+.secure {
+  display: flex;
+  gap: var(--space-2);
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+.secure svg {
+  flex: none;
+  color: var(--color-brand-saddle);
+  margin-top: 1px;
+}
+@media (min-width: 900px) {
+  .sticky {
+    position: sticky;
+    top: 96px;
+  }
+}
+.devBanner {
+  border: 2px dashed var(--color-warning);
+  background: var(--color-warning-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}

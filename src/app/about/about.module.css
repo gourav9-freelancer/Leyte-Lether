@@ -1,0 +1,143 @@
+/* About Us — Figma 1:682 (desktop) / 1:978 (mobile). */
+.hero {
+  background: var(--color-brand-espresso);
+  padding: 40px 0;
+}
+.heroInner {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+.heroText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  max-width: 720px;
+}
+.heroTitle {
+  color: var(--color-brand-white);
+}
+.heroLead {
+  color: var(--color-brand-parchment);
+}
+.heroMedia {
+  aspect-ratio: 4 / 3;
+}
+@media (min-width: 900px) {
+  .hero {
+    padding: 96px 0;
+  }
+  .heroInner {
+    gap: 48px;
+  }
+  .heroText {
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    gap: var(--space-5);
+  }
+  .heroMedia {
+    aspect-ratio: 1232 / 648;
+  }
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.frame {
+  aspect-ratio: 4 / 3;
+}
+@media (min-width: 900px) {
+  .frame414 {
+    aspect-ratio: auto;
+    height: 414px;
+  }
+}
+
+.pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-4);
+}
+.pairFrame {
+  aspect-ratio: 4 / 5;
+}
+@media (min-width: 900px) {
+  .pair {
+    gap: var(--space-6);
+  }
+  .pairFrame {
+    aspect-ratio: auto;
+    height: 392.5px;
+  }
+  .pairShort {
+    aspect-ratio: auto;
+    height: 235.5px;
+  }
+}
+.craftSecond {
+  display: none;
+}
+.craftPair {
+  grid-template-columns: 1fr;
+}
+@media (min-width: 900px) {
+  .craftPair {
+    grid-template-columns: 1fr 1fr;
+  }
+  .craftSecond {
+    display: block;
+  }
+}
+
+.collectionHead {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  margin-bottom: var(--space-6);
+}
+.collectionHeading {
+  max-width: 576px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+}
+@media (min-width: 900px) {
+  .collectionHead {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-6);
+  }
+}
+@media (min-width: 1200px) {
+  .grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+.mobileCta {
+  margin-top: var(--space-6);
+}
+
+.customText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+@media (min-width: 900px) {
+  .customText {
+    gap: var(--space-6);
+  }
+  .desktopFirst {
+    order: -1;
+  }
+}

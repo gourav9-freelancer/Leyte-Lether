@@ -1,0 +1,948 @@
+
+=== Leyte Leather — Homepage (Desktop)
+[text] Handcrafted in Sudbury, ON
+[text] ·
+[text] Full-grain leather
+[text] Custom orders welcome
+[text] SUDBURY, ONTARIO · LEATHER ATELIER
+[frame] Heading 1
+[text] Made by hand. Made to be yours.
+[text] Handcrafted leather goods, built one piece at a time in Sudbury, Ontario.
+[frame] Link
+[text] Explore the collection
+[text] Request a custom piece
+[text] Handcrafted in Sudbury, Ontario
+[text] Every wallet, strap, belt, and sheath is made one piece at a time in our Sudbury workshop.
+[text] Crafted with full-grain leather chosen for natural character, clean grain, and tactile finish.
+[text] Share your idea, measurements, and reference images for a tailored custom-order quote.
+[text] FEATURED COLLECTION
+[frame] Heading 2
+[text] Text
+[text] Explore handcrafted leather goods designed for everyday use and personal expression.
+[text] Explore all products
+[text] Classic Leather Bifold Wallet
+[text] CAD $60.00
+[text] Classic Full-Grain Leather Belt
+[text] CAD $65.00
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Personalized Leather Guitar Strap
+[text] CAD $90.00
+[frame] Heading 3
+[text] More from the workshop
+[text] 8 pieces in catalogue
+[text] Leather Car Key Fob Cover
+[text] CAD $40.00
+[text] Handmade Leather Watch Strap
+[text] CAD $55.00
+[text] Premium Leather Dog Harness
+[text] CAD $85.00
+[text] Handcrafted Leather Axe Sheath
+[text] CRAFTSMANSHIP
+[text] The beauty is in the details.
+[text] Every piece at Leyte Leather is built one at a time, giving attention to the natural grain of the hide, clean stitching, finished edges, and hardware selection.
+[text] Discover our approach
+[text] BROWSE BY CATEGORY
+[text] Explore the workshop catalogue.
+[text] Everyday Essentials
+[text] Wallets, belts, and car key-fob covers.
+[text] View essentials
+[text] Personalised Gear
+[text] Camera straps, guitar straps, and watch straps.
+[text] View accessories
+[text] Lifestyle and Outdoor
+[text] Dog harnesses and handcrafted axe sheaths.
+[text] View outdoor goods
+[text] INDIVIDUALITY
+[text] Make it personal.
+[text] Selected pieces in the Leyte Leather catalogue— including our Personalized Leather Camera Strap and Personalized Leather Guitar Strap—are available with personalisation so your piece is unmistakably yours.
+[text] Explore personalised products
+[text] Personalisation available
+[text] BESPOKE COMMISSIONS
+[text] Have something different in mind?
+[text] Tell us what you have in mind. We'll review your request and email a quote. Once accepted, a deposit secures your spot in the queue.
+[text] Custom order process
+[text] 01
+[text] Share your idea
+[text] 02
+[text] Provide measurements and specifications
+[text] 03
+[text] Upload reference images
+[text] 04
+[text] Receive a quotation by email
+[text] 05
+[text] Accept the quote and secure your production spot with a deposit
+[text] ABOUT LEYTE LEATHER
+[text] One piece at a time.
+[text] Based in Sudbury, Ontario, Leyte Leather crafts functional leather goods—from wallets and belts to camera straps, guitar straps, dog harnesses, and axe sheaths—alongside bespoke custom commissions.
+[text] Discover our story
+[text] Heading 2 → Find something made for you.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[text] Shop
+[text] Custom Orders
+[text] About
+[frame] Link - Account
+[text] Account
+[frame] Button - Shopping cart, 0 items
+[text] Cart
+[text] 0
+
+=== Leyte Leather — Homepage (Mobile)
+[text] Text
+[text] SUDBURY, ONTARIO
+[frame] Heading 1
+[text] Made by hand. Made to be yours.
+[text] Handcrafted leather goods, built one piece at a time in Sudbury, Ontario.
+[frame] Link
+[text] Handcrafted in Sudbury, Ontario
+[text] Built one piece at a time in our local workshop.
+[text] Full-grain leather
+[text] Selected for natural grain and tactile finish.
+[text] Custom orders welcome
+[text] Personalised pieces and bespoke requests quoted by email.
+[text] FEATURED COLLECTION
+[frame] Heading 2
+[text] Crafted for everyday life.
+[text] Explore handcrafted leather goods designed for everyday use and personal expression.
+[text] Classic Leather Bifold Wallet
+[text] CAD $60.00
+[text] Classic Full- Grain Leather Belt
+[text] CAD $65.00
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Personalized Leather Guitar Strap
+[text] CAD $90.00
+[text] Leather Car Key Fob Cover
+[text] CAD $40.00
+[text] Handmade Leather Watch Strap
+[text] CAD $55.00
+[text] Premium Leather Dog Harness
+[text] CAD $85.00
+[text] Handcrafted Leather Axe Sheath
+[text] CRAFTSMANSHIP
+[text] The beauty is in the details.
+[text] Built one piece at a time, with attention to leather grain, stitching, finished edges, and hardware.
+[text] Explore the workshop catalogue.
+[frame] Heading 3
+[text] INDIVIDUALITY
+[text] Make it personal.
+[text] Selected pieces—including our Personalized Leather Camera Strap and Personalized Leather Guitar Strap—offer personalisation.
+[text] BESPOKE COMMISSIONS
+[text] Have something different in mind?
+[text] Tell us what you have in mind. We'll review your request and email a quote. Once accepted, a deposit secures your spot in the queue.
+[text] 1. Share your idea
+[text] 2. Provide measurements and specifications
+[text] 3. Upload reference images
+[text] 4. Receive a quotation by email
+[text] 5. Accept the quote and secure your production spot with a deposit
+[text] ABOUT LEYTE LEATHER
+[text] One piece at a time.
+[text] Based in Sudbury, Ontario, Leyte Leather crafts functional leather goods alongside bespoke custom commissions.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Button - Shopping cart, 0 items
+
+=== Leyte Leather — About Us (Desktop)
+[text] Text
+[frame] Heading 1
+[text] OUR PHILOSOPHY
+[frame] Heading 2
+[text] Not made in a hurry. Made with care.
+[text] At Leyte Leather, we focus on handcrafted leather goods, built one piece at a time. Our approach centres on the material, the details and creating pieces that feel personal to the people who use them.
+[text] THE MATERIAL
+[text] Let the leather speak for itself.
+[text] Full-grain leather is central to the way Leyte Leather presents its collection. The material, its natural character and the finished details are an important part of every product.
+[text] THE CRAFT
+[text] One piece at a time.
+[text] Every piece represents an approach centred on handcrafted leather goods rather than mass- produced accessories.
+[text] OUR HOME
+[text] Handcrafted in Sudbury, Ontario.
+[text] Sudbury is home to Leyte Leather. Our brand is built around handcrafted leather goods, made one piece at a time.
+[frame] Link
+[text] Classic Leather Bifold Wallet
+[text] Classic Full-Grain Leather Belt
+[text] Personalized Leather Camera Strap
+[text] Personalized Leather Guitar Strap
+[text] Handmade Leather Watch Strap
+[text] Premium Leather Dog Harness
+[text] Handcrafted Leather Axe Sheath
+[text] Leather Car Key Fob Cover
+[text] MADE PERSONAL
+[text] Your idea. Your specifications.
+[text] Looking for something beyond the existing collection? Leyte Leather welcomes custom-order requests. Share your idea, measurements and reference images, and the team will review your request and email a quotation.
+[frame] Heading 3
+[text] Custom-order process
+[text] Leather goods presented as handcrafted, one piece at a time.
+[text] Full-grain leather is central to the brand's product positioning.
+[text] Custom orders are welcome, allowing customers to request products based on their specifications.
+[text] Heading 2 → Find a piece that's yours.
+[text] Leyte Leather
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — About Us (Mobile)
+[text] Text
+[text] THE STORY BEHIND LEYTE LEATHER
+[frame] Heading 1
+[text] Made by hand. Made with intention.
+[text] Handcrafted leather goods, built one piece at a time in Sudbury, Ontario.
+[text] OUR PHILOSOPHY
+[frame] Heading 2
+[text] Not made in a hurry. Made with care.
+[text] At Leyte Leather, we focus on handcrafted leather goods, built one piece at a time. Our approach centres on the material, the details and creating pieces that feel personal to the people who use them.
+[text] THE MATERIAL
+[text] Let the leather speak for itself.
+[text] Full-grain leather is central to the way Leyte Leather presents its collection. The material, its natural character and the finished details are an important part of every product.
+[text] THE CRAFT
+[text] One piece at a time.
+[text] Every piece represents an approach centred on handcrafted leather goods rather than mass-produced accessories.
+[text] OUR HOME
+[text] Handcrafted in Sudbury, Ontario.
+[text] Sudbury is home to Leyte Leather. Our brand is built around handcrafted leather goods, made one piece at a time.
+[text] Made for different lives.
+[text] From everyday essentials to accessories for personal passions, the Leyte Leather collection brings together handcrafted leather goods for different needs.
+[frame] Link
+[text] Classic Leather Bifold Wallet
+[text] Classic Full- Grain Leather Belt
+[text] Personalized Leather Camera Strap
+[text] Personalized Leather Guitar Strap
+[text] Handmade Leather Watch Strap
+[text] Premium Leather Dog Harness
+[text] Handcrafted Leather Axe Sheath
+[text] Leather Car Key Fob Cover
+[text] MADE PERSONAL
+[text] Your idea. Your specifications.
+[text] Looking for something beyond the existing collection? Leyte Leather welcomes custom- order requests. Share your idea, measurements and reference images, and the team will review your request and email a quotation.
+[text] 1. Share your idea.
+[text] 2. Provide measurements and specifications.
+[text] 3. Upload up to five reference images.
+[text] 4. Receive a quotation by email.
+[text] 5. Accept the quotation and secure a place in the production queue with a deposit.
+[text] Handcrafted
+[text] Leather goods presented as handcrafted, one piece at a time.
+[text] Material-focused
+[text] Full-grain leather is central to the brand's product positioning.
+[text] Personal
+[text] Custom orders are welcome, allowing customers to request products based on their specifications.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Shop All Products (Desktop)
+[text] Text
+[text] THE LEYTE LEATHER COLLECTION
+[frame] Heading 1
+[text] Find something made for you.
+[frame] Button
+[frame] Input
+[frame] Button - Filter Drawer Trigger
+[frame] Label
+[frame] Link
+[text] Leather Car Key Fob Cover
+[text] CAD $40.00
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Handmade Leather Watch Strap
+[text] CAD $55.00
+[text] Premium Leather Dog Harness
+[text] CAD $85.00
+[text] Handcrafted Leather Axe Sheath
+[text] Personalized Leather Guitar Strap
+[text] CAD $90.00
+[text] Classic Leather Bifold Wallet
+[text] CAD $60.00
+[text] Classic Full-Grain Leather Belt
+[text] CAD $65.00
+[text] Heading 2 → Looking for something different?
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Shop All Products (Mobile)
+[text] Text
+[text] THE LEYTE LEATHER COLLECTION
+[frame] Heading 1
+[text] Find something made for you.
+[text] Explore handcrafted leather goods for everyday life, personal expression and everything in between.
+[frame] Input
+[frame] Button
+[text] Showing 8 products
+[frame] Link
+[text] Leather Car Key Fob Cover
+[text] CAD $40.00
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Handmade Leather Watch Strap
+[text] CAD $55.00
+[text] Premium Leather Dog Harness
+[text] CAD $85.00
+[text] Handcrafted Leather Axe Sheath
+[text] Personalized Leather Guitar Strap
+[text] CAD $90.00
+[text] Classic Leather Bifold Wallet
+[text] CAD $60.00
+[text] Classic Full- Grain Leather Belt
+[text] CAD $65.00
+[frame] Heading 2
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Product Customiser (Desktop)
+[text] Text
+[frame] Nav - Breadcrumb
+[frame] Link
+[frame] Button
+[frame] Heading 1
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Make it personal. Choose from the available options to create a piece that feels like yours.
+[text] Material options
+[text] Leather colour & finish choices pending confirmation.
+[text] Stitching options
+[text] Thread colour choices pending confirmation.
+[text] Hardware options
+[text] Buckle & attachment finishes pending confirmation.
+[text] Product-specific sizing
+[text] Strap length variations pending confirmation.
+[text] Personalisation fields (such as initials, name, or character limits) will appear here once confirmed by Leyte Leather. No unconfirmed fees or character limits are applied.
+[frame] Button - Decrease quantity
+[frame] Button - Increase quantity
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Product Customiser (Mobile)
+[text] Text
+[frame] Nav - Breadcrumb
+[frame] Link
+[frame] Heading 1
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00
+[text] Make it personal. Choose from the available options to create a piece that feels like yours.
+[text] STEP 01 — AVAILABLE OPTIONS
+[text] Material, stitching, and hardware options are pending confirmation.
+[text] STEP 02 — PERSONALISATION
+[text] Personalisation fields and character limits are pending confirmation.
+[text] STEP 03 — YOUR CONFIGURATION
+[frame] Link - Scenario 14: Request a fully custom piece
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Shopping Cart (Desktop)
+[text] Text
+[frame] Heading 1
+[frame] Link
+[frame] Button - Decrease quantity of Classic Leather Bifold Wallet
+[frame] Button - Increase quantity of Classic Leather Bifold Wallet
+[frame] Button
+[frame] Button - Decrease quantity of Personalized Leather Camera Strap
+[frame] Button - Increase quantity of Personalized Leather Camera Strap
+[frame] Heading 2
+[text] Details → CAD $135.00
+[text] Bespoke requests
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 2 items
+
+=== Leyte Leather — Shopping Cart (Mobile)
+[text] Text
+[text] YOUR SELECTIONS
+[text] Heading 1 → A few good choices.
+[text] Review your handcrafted leather goods before continuing.
+[frame] Link
+[text] Classic Leather Bifold Wallet
+[text] CAD $60.00 each
+[text] CAD $60.00
+[frame] Button - Decrease quantity
+[frame] Button - Increase quantity
+[frame] Button
+[text] Personalized Leather Camera Strap
+[text] CAD $75.00 each
+[text] CAD $75.00
+[frame] Heading 2
+[text] Details → CAD $135.00
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 2 items
+
+=== Leyte Leather — Gallery (Desktop)
+[text] Text
+[text] THE LEYTE LEATHER COLLECTION
+[frame] Heading 1
+[text] Made to be seen. Made to be kept.
+[text] Explore handcrafted leather goods, thoughtful details and the character of pieces made one at a time.
+[frame] Link
+[frame] Heading 2
+[text] Every piece has its own character.
+[text] From everyday essentials to personalised accessories, discover the leather goods that make up the Leyte Leather collection.
+[frame] Button
+[frame] Button - View Classic Leather Bifold Wallet in gallery viewer
+[frame] Button - View Personalized Leather Camera Strap in gallery viewer
+[frame] Button - View Classic Full-Grain Leather Belt in gallery viewer
+[frame] Button - View Personalized Leather Guitar Strap in gallery viewer
+[frame] Button - View Handmade Leather Watch Strap in gallery viewer
+[frame] Button - View Premium Leather Dog Harness in gallery viewer
+[frame] Button - View Handcrafted Leather Axe Sheath in gallery viewer
+[frame] Button - View Leather Car Key Fob Cover in gallery viewer
+[text] UP CLOSE
+[text] The beauty is in the details.
+[text] Good leather goods are appreciated up close. The texture, the finish and the thoughtful details all contribute to the character of a piece.
+[text] CUSTOM ORDERS
+[text] Have something different in mind?
+[text] Looking for something personal? Tell us what you have in mind and share your requirements.
+[text] Heading 2 → Find a piece that feels like yours.
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Gallery (Mobile)
+[text] Text
+[text] THE LEYTE LEATHER COLLECTION
+[frame] Heading 1
+[text] Made to be seen. Made to be kept.
+[text] Explore handcrafted leather goods, thoughtful details and the character of pieces made one at a time.
+[frame] Link
+[frame] Heading 2
+[text] Every piece has its own character.
+[text] From everyday essentials to personalised accessories, discover the leather goods that make up the Leyte Leather collection.
+[frame] Button
+[frame] Button - View Classic Leather Bifold Wallet
+[frame] Button - View Personalized Leather Camera Strap
+[frame] Button - View Classic Full-Grain Leather Belt
+[frame] Button - View Personalized Leather Guitar Strap
+[frame] Button - View Handmade Leather Watch Strap
+[frame] Button - View Premium Leather Dog Harness
+[frame] Button - View Handcrafted Leather Axe Sheath
+[frame] Button - View Leather Car Key Fob Cover
+[text] UP CLOSE
+[text] The beauty is in the details.
+[text] Good leather goods are appreciated up close. The texture, the finish and the thoughtful details all contribute to the character of a piece.
+[text] CUSTOM ORDERS
+[text] Have something different in mind?
+[text] Looking for something personal? Tell us what you have in mind and share your requirements.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — My Account (Desktop)
+[text] Text
+[frame] Heading 1
+[frame] Label
+[text] Email address *
+[frame] Input
+[text] Enter your email address
+[frame] Button
+[text] Enter your password.
+[frame] Button - Show password
+[frame] Heading 2
+[text] MY ACCOUNT
+[text] Welcome back.
+[text] Manage your personal details and keep your orders organised.
+[frame] Link
+[frame] Heading 3
+[text] CUSTOMER NAME
+[text] Not yet provided
+[text] EMAIL ADDRESS
+[text] Signed-in account email
+[frame] Heading 4
+[text] Order History
+[text] View your past purchases and order details.
+[text] Personal Details
+[text] Review or update your name and email address.
+[text] Account Security
+[text] Update your password or manage your session.
+[text] Leyte Leather
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Global System States (Desktop)
+[text] Text
+[text] PAGE NOT FOUND
+[frame] Heading 1
+[text] Looks like this piece is missing.
+[text] The page you're looking for may have moved, or the address may be incorrect. Let's help you find your way back.
+[frame] Link
+[text] ERROR & RECOVERY STATES
+[frame] Heading 2
+[text] Calm, actionable recovery.
+[text] Reusable error patterns for application failures, network interruptions, unavailable products, and expired sessions.
+[frame] Button
+[frame] Heading 3
+[text] We couldn't complete that.
+[text] Something unexpected happened. Please try again in a moment.
+[text] Your cart hasn't been updated. Please try again.
+[text] Your request wasn't completed. Review the information and try again.
+[text] Please check your details and try again.
+[text] LOADING PATTERNS
+[text] Layout-stable skeleton loading.
+[text] Structure-preserving skeletons reserve image proportions and prevent layout shift without fake data or artificial progress bars.
+[text] Shop Catalogue Skeleton
+[text] Cart Row Skeleton
+[text] Order History Skeleton
+[text] Global Spinner System
+[text] Unified circular spinner in Small (buttons), Medium (section switching), and Large (initial auth/page check) sizes.
+[text] EMPTY STATES
+[text] Helpful, unhurried guidance.
+[text] Leyte Leather
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — My Account (Mobile)
+[text] Text
+[text] YOUR LEYTE LEATHER ACCOUNT
+[frame] Heading 1
+[text] Welcome back.
+[text] Sign in to access your account, manage your details and keep track of your orders.
+[frame] Label
+[text] Email address *
+[frame] Input
+[text] Enter your email address
+[frame] Button
+[text] Enter your password.
+[frame] Button - Show password
+[frame] Heading 2
+[text] MY ACCOUNT
+[text] Manage your personal details and keep your orders organised.
+[frame] Nav - Account navigation
+[frame] Link
+[frame] Heading 3
+[text] Account Overview
+[text] CUSTOMER NAME
+[text] Not yet provided
+[text] EMAIL ADDRESS
+[text] Signed-in account email
+[frame] Heading 4
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Global System States (Mobile)
+[text] Text
+[text] PAGE NOT FOUND
+[frame] Heading 1
+[text] Looks like this piece is missing.
+[text] The page you're looking for may have moved, or the address may be incorrect. Let's help you find your way back.
+[frame] Link
+[text] ERROR & RECOVERY STATES
+[frame] Heading 2
+[text] We couldn't complete that.
+[text] Something unexpected happened. Please try again in a moment.
+[frame] Button
+[frame] Heading 3
+[text] Your session has expired.
+[text] Please sign in again to securely access your account.
+[text] LOADING PATTERNS
+[text] Skeleton Loading
+[text] EMPTY STATES
+[text] Your cart is waiting for something special.
+[text] Explore our handcrafted leather goods and find a piece that feels like yours.
+[text] No orders yet.
+[text] When you place an order, you'll be able to find its details and updates here.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Order History (Desktop)
+[text] Text
+[text] MY ACCOUNT
+[frame] Heading 1
+[text] Your Orders
+[text] View your purchases, check order updates and revisit the details of your Leyte Leather orders.
+[frame] Link
+[frame] Button
+[frame] Input - Search by order number or product name
+[frame] Heading 2
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Order History (Mobile)
+[text] Text
+[text] MY ACCOUNT
+[frame] Heading 1
+[text] Your Orders
+[text] View your purchases, check order updates and revisit the details of your Leyte Leather orders.
+[frame] Nav - Account navigation
+[frame] Link
+[frame] Button
+[frame] Input - Search by order number or product name
+[text] Heading 2 → Example Order #LL-1042
+[text] Heading 2 → Example Order #LL-1038
+[text] Heading 2 → Example Order #LL- 1031
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT & ABOUT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] Our story
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Personal Information (Desktop)
+[text] Text
+[text] MY ACCOUNT / PERSONAL INFORMATION
+[frame] Heading 1
+[text] Personal Information
+[text] Manage your personal details and keep your account information up to date.
+[frame] Link
+[frame] Button
+[frame] Heading 2
+[text] FIRST NAME
+[text] Not yet provided
+[text] LAST NAME
+[text] EMAIL ADDRESS
+[text] Signed-in account email
+[text] PHONE NUMBER
+[text] Leyte Leather
+[frame] Heading 3
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Personal Information (Mobile)
+[text] Text
+[text] MY ACCOUNT / PERSONAL INFORMATION
+[frame] Heading 1
+[text] Personal Information
+[text] Manage your personal details and keep your account information up to date.
+[frame] Nav - Account navigation
+[frame] Link
+[frame] Button
+[frame] Heading 2
+[text] FIRST NAME
+[text] Not yet provided
+[text] LAST NAME
+[text] EMAIL ADDRESS
+[text] Signed-in account email
+[text] PHONE NUMBER
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Button - Open navigation menu
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Loading States & Spinner System (Mobile)
+[text] Text
+[text] COMPONENT SHOWCASE
+[frame] Heading 1
+[text] Loading States & Spinner System
+[text] Visual reference library for spinners, button loading states, skeletons, inline loaders and dropdown controls across Leyte Leather.
+[text] SECTION A
+[frame] Heading 2
+[text] Spinner Component
+[frame] Heading 3
+[text] SECTION B
+[text] Button Loading States
+[frame] Button
+[text] SECTION C
+[text] Page Skeletons
+[text] SHOP PRODUCT CARD
+[text] ORDER HISTORY CARD
+[text] SECTION D & CONTROLS
+[text] Inline & Dropdowns
+[frame] Label
+[text] Sort products
+[text] Featured
+[text] Loading Design Rules
+[text] Do
+[text] Use skeletons for known layouts, small spinners in buttons, medium spinners in sections, and large spinners only for initial loading.
+[text] Don’t
+[text] Never stack multiple spinners, invent progress percentages, or use loaders for error or empty states.
+[text] Leyte Leather
+[text] Handcrafted leather goods made one piece at a time in Sudbury, Ontario, Canada.
+[frame] Button - Open navigation menu
+[frame] Link
+[frame] Link - Shopping cart, 0 items
+
+=== Leyte Leather — Loading States & Spinner System (Desktop)
+[text] Text
+[text] COMPONENT SHOWCASE
+[frame] Heading 1
+[text] Loading States & Spinner System
+[text] A unified visual reference for circular spinners, button loading states, page skeletons, inline feedback, dropdown controls and initial page loading across Leyte Leather.
+[frame] Nav - Showcase sections
+[frame] Link
+[text] SECTION A
+[frame] Heading 2
+[text] Spinner Component
+[text] One restrained circular spinner using neutral track and saddle/espresso stroke tokens, with subtle rotation and reduced-motion support.
+[frame] Heading 3
+[text] For buttons, inline actions and small form submissions.
+[text] For section loading, local content refresh and small content panels.
+[text] For initial page loading, authentication verification and full content loading when a skeleton is not suitable.
+[text] SECTION B
+[text] Button Loading States
+[text] Button dimensions stay locked while the small circular spinner sits inline beside the active verb. Click any interactive example below to toggle its state.
+[text] SAVE CHANGES → SAVING...
+[frame] Button
+[text] SIGN IN → SIGNING IN...
+[text] ADD TO CART → ADDING...
+[text] SUBMIT REQUEST → SUBMITTING...
+[text] SIGN OUT → SIGNING OUT...
+[text] SECTION C
+[text] Page Skeleton Loading
+[text] Neutral skeleton placeholders mirror the real layout of each page without fake copy or invented customer details.
+[text] Example 1 — Shop Product Grid
+[text] Example 2 — Product Details
+[text] Example 3 — Account Overview
+[text] Example 4 — Order History
+[text] SECTION D
+[text] Inline Loading States
+[text] Restrained inline spinners keep the surrounding page interactive while a local action completes.
+[text] SECTION E
+[text] Initial Page Loading
+[text] Retains the shared header so layout remains stable while the main content area displays a large circular spinner and matching skeleton structure.
+[text] CONTROLS
+[text] Dropdown Controls
+[text] Standard select, interactive menu dropdown and loading dropdown states matching Leyte Leather form geometry.
+[frame] Label
+[text] Sort products
+[text] Featured
+[text] Standard native select for sorting and forms.
+[text] Leather finish
+[text] Click to open and select an option.
+[text] Loading options
+[text] Small spinner inside a disabled trigger while options load.
+[text] SECTION F
+[text] Loading Design Rules
+[text] Use skeletons when the page structure is known.
+[text] Use small spinners for button actions.
+[text] Use medium spinners for section-level requests.
+[text] Use large spinners only for appropriate initial loading situations.
+[text] Never use multiple unnecessary spinners in one small component.
+[text] Never invent progress percentages.
+[text] Never show an infinite loading state as a normal completed screen.
+[text] Never use loading visuals to represent an error or empty state.
+[text] Leyte Leather
+[text] SHOP
+[text] All products
+[text] Custom orders
+[text] Gallery
+[text] ACCOUNT
+[text] My account
+[text] Order history
+[text] Sign in
+[text] ABOUT
+[text] Our story
+[text] Shopping cart
+[frame] Nav - Primary navigation
+[frame] Link - Account
+[frame] Link - Shopping cart, 0 items

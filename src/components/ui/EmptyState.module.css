@@ -1,0 +1,49 @@
+/* Empty states (Figma: Global System States, Part D — "Helpful, unhurried guidance."). */
+.empty {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: var(--space-8);
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  align-items: flex-start;
+}
+.center {
+  align-items: center;
+  text-align: center;
+}
+.icon {
+  color: var(--color-brand-saddle);
+  margin-bottom: var(--space-1);
+}
+.title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 27px;
+  line-height: 32px;
+  color: var(--color-brand-espresso);
+}
+@media (min-width: 900px) {
+  .title {
+    font-size: 32px;
+    line-height: 37px;
+  }
+}
+.text {
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-700);
+  max-width: 52ch;
+}
+.actions {
+  margin-top: var(--space-3);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+@media (max-width: 639px) {
+  .empty {
+    padding: var(--space-6) var(--space-5);
+  }
+}

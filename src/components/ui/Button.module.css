@@ -1,0 +1,148 @@
+/* Buttons (README §8 + Figma: 48px / 44px compact, radius.md, DM Sans 600 14/17). */
+.button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 48px;
+  padding: 0 var(--space-6);
+  border: 1px solid transparent;
+  border-radius: var(--radius-md);
+  font-family: var(--font-ui);
+  font-size: var(--type-button);
+  line-height: var(--lh-button);
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+  text-decoration: none;
+  transition:
+    background-color var(--motion-standard) var(--motion-ease),
+    border-color var(--motion-standard) var(--motion-ease),
+    color var(--motion-standard) var(--motion-ease),
+    transform var(--motion-fast) var(--motion-ease);
+  -webkit-tap-highlight-color: transparent;
+}
+.button:active:not(:disabled):not([aria-disabled="true"]) {
+  transform: translateY(1px);
+}
+.button:disabled,
+.button[aria-disabled="true"] {
+  cursor: not-allowed;
+}
+.button:focus-visible {
+  outline: var(--border-focus);
+  outline-offset: 2px;
+}
+
+.compact {
+  min-height: 44px;
+  padding: 0 var(--space-5);
+}
+.full {
+  width: 100%;
+}
+.wrap {
+  white-space: normal;
+}
+
+/* Primary — espresso */
+.primary {
+  background: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+}
+.primary:hover:not(:disabled):not([aria-disabled="true"]) {
+  background: var(--color-neutral-800);
+}
+.primary:active:not(:disabled) {
+  background: var(--color-brand-dark);
+}
+
+/* Secondary — warm white with neutral.300 border */
+.secondary {
+  background: var(--color-brand-white);
+  border-color: var(--color-neutral-300);
+  color: var(--color-brand-espresso);
+}
+.secondary:hover:not(:disabled):not([aria-disabled="true"]) {
+  background: var(--color-brand-parchment);
+}
+
+/* Light button on dark sections (Figma hero / craftsmanship / custom orders). */
+.light {
+  background: var(--color-brand-white);
+  color: var(--color-brand-espresso);
+}
+.light:hover:not(:disabled):not([aria-disabled="true"]) {
+  background: var(--color-brand-parchment);
+}
+.light:focus-visible,
+.ghostOnDark:focus-visible {
+  outline-color: var(--color-brand-white);
+}
+
+/* Outline button on dark sections (border neutral.600, cream text). */
+.ghostOnDark {
+  background: transparent;
+  border-color: var(--color-neutral-600);
+  color: var(--color-brand-cream);
+}
+.ghostOnDark:hover:not(:disabled) {
+  background: rgba(255, 252, 248, 0.08);
+  border-color: var(--color-neutral-500);
+}
+
+/* Danger — destructive confirmations only */
+.danger {
+  background: var(--color-error);
+  color: var(--color-brand-white);
+}
+.danger:hover:not(:disabled) {
+  background: #8a342a;
+}
+
+/* Text button */
+.text {
+  min-height: 44px;
+  padding: 0 var(--space-1);
+  background: transparent;
+  color: var(--color-brand-saddle);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+.text:hover:not(:disabled) {
+  color: var(--color-brand-espresso);
+}
+
+.primary:disabled,
+.primary[aria-disabled="true"],
+.danger:disabled {
+  background: var(--color-neutral-300);
+  /* neutral.800 on neutral.300 ≈ 7.7:1 (WCAG AA even though disabled controls are exempt) */
+  color: var(--color-neutral-800);
+}
+.secondary:disabled,
+.light:disabled {
+  color: var(--color-neutral-700);
+  background: var(--color-neutral-50);
+}
+.loading:disabled {
+  background: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+  cursor: progress;
+}
+.secondary.loading:disabled {
+  background: var(--color-brand-white);
+  color: var(--color-brand-espresso);
+}
+.wrap {
+  min-width: 0;
+  padding-top: var(--space-2);
+  padding-bottom: var(--space-2);
+}
+/* Icons inside buttons must never be squeezed by flexbox (global svg max-width: 100%). */
+.button svg {
+  flex: none;
+  max-width: none;
+}

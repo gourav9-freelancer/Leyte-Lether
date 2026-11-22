@@ -1,0 +1,83 @@
+/* Alerts & feedback (README §8, Figma error/info patterns). Icon + text, never colour alone. */
+.alert {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  padding: var(--space-4) var(--space-5);
+  border-radius: var(--radius-md);
+  border: 1px solid;
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-800);
+}
+.icon {
+  flex: none;
+  margin-top: 1px;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  min-width: 0;
+  flex: 1;
+}
+.title {
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.actions {
+  margin-top: var(--space-2);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+.dismiss {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  margin: -6px -10px -6px 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: inherit;
+}
+
+.info {
+  background: var(--color-info-bg);
+  border-color: #c9d6dc;
+}
+.info .icon {
+  color: var(--color-info);
+}
+.success {
+  background: var(--color-success-bg);
+  border-color: #c3d9c9;
+}
+.success .icon,
+.success .title {
+  color: var(--color-success);
+}
+.warning {
+  background: var(--color-warning-bg);
+  border-color: #e8d5b5;
+}
+.warning .icon {
+  color: var(--color-warning);
+}
+.error {
+  background: var(--color-error-bg);
+  border-color: #e9c6c0;
+}
+.error .icon,
+.error .title {
+  color: var(--color-error);
+}
+
+/* Inline card variant used for local errors (Figma: "We couldn't update your cart.") */
+.card {
+  background: var(--color-brand-white);
+  border-color: var(--color-neutral-200);
+}

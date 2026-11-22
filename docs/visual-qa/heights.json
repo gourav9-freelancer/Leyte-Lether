@@ -1,0 +1,252 @@
+[
+  {
+    "name": "home",
+    "width": 390,
+    "height": 5816
+  },
+  {
+    "name": "about",
+    "width": 390,
+    "height": 6333
+  },
+  {
+    "name": "shop",
+    "width": 390,
+    "height": 2678
+  },
+  {
+    "name": "customiser",
+    "width": 390,
+    "height": 2307
+  },
+  {
+    "name": "product",
+    "width": 390,
+    "height": 2399
+  },
+  {
+    "name": "cart",
+    "width": 390,
+    "height": 1676
+  },
+  {
+    "name": "gallery",
+    "width": 390,
+    "height": 5768
+  },
+  {
+    "name": "login",
+    "width": 390,
+    "height": 1216
+  },
+  {
+    "name": "custom-orders",
+    "width": 390,
+    "height": 2746
+  },
+  {
+    "name": "not-found",
+    "width": 390,
+    "height": 1200
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "height": 6903
+  },
+  {
+    "name": "about",
+    "width": 768,
+    "height": 8010
+  },
+  {
+    "name": "shop",
+    "width": 768,
+    "height": 3430
+  },
+  {
+    "name": "customiser",
+    "width": 768,
+    "height": 2589
+  },
+  {
+    "name": "product",
+    "width": 768,
+    "height": 2995
+  },
+  {
+    "name": "cart",
+    "width": 768,
+    "height": 1659
+  },
+  {
+    "name": "gallery",
+    "width": 768,
+    "height": 7904
+  },
+  {
+    "name": "login",
+    "width": 768,
+    "height": 1222
+  },
+  {
+    "name": "custom-orders",
+    "width": 768,
+    "height": 2429
+  },
+  {
+    "name": "not-found",
+    "width": 768,
+    "height": 1342
+  },
+  {
+    "name": "home",
+    "width": 1024,
+    "height": 5895
+  },
+  {
+    "name": "about",
+    "width": 1024,
+    "height": 6470
+  },
+  {
+    "name": "shop",
+    "width": 1024,
+    "height": 2738
+  },
+  {
+    "name": "customiser",
+    "width": 1024,
+    "height": 2153
+  },
+  {
+    "name": "product",
+    "width": 1024,
+    "height": 1969
+  },
+  {
+    "name": "cart",
+    "width": 1024,
+    "height": 1257
+  },
+  {
+    "name": "gallery",
+    "width": 1024,
+    "height": 4988
+  },
+  {
+    "name": "login",
+    "width": 1024,
+    "height": 1148
+  },
+  {
+    "name": "custom-orders",
+    "width": 1024,
+    "height": 2590
+  },
+  {
+    "name": "not-found",
+    "width": 1024,
+    "height": 908
+  },
+  {
+    "name": "home",
+    "width": 1280,
+    "height": 6141
+  },
+  {
+    "name": "about",
+    "width": 1280,
+    "height": 6080
+  },
+  {
+    "name": "shop",
+    "width": 1280,
+    "height": 2199
+  },
+  {
+    "name": "customiser",
+    "width": 1280,
+    "height": 2043
+  },
+  {
+    "name": "product",
+    "width": 1280,
+    "height": 2125
+  },
+  {
+    "name": "cart",
+    "width": 1280,
+    "height": 1262
+  },
+  {
+    "name": "gallery",
+    "width": 1280,
+    "height": 5399
+  },
+  {
+    "name": "login",
+    "width": 1280,
+    "height": 1153
+  },
+  {
+    "name": "custom-orders",
+    "width": 1280,
+    "height": 2594
+  },
+  {
+    "name": "not-found",
+    "width": 1280,
+    "height": 971
+  },
+  {
+    "name": "home",
+    "width": 1440,
+    "height": 6141
+  },
+  {
+    "name": "about",
+    "width": 1440,
+    "height": 6122
+  },
+  {
+    "name": "shop",
+    "width": 1440,
+    "height": 2199
+  },
+  {
+    "name": "customiser",
+    "width": 1440,
+    "height": 2043
+  },
+  {
+    "name": "product",
+    "width": 1440,
+    "height": 2125
+  },
+  {
+    "name": "cart",
+    "width": 1440,
+    "height": 1262
+  },
+  {
+    "name": "gallery",
+    "width": 1440,
+    "height": 5399
+  },
+  {
+    "name": "login",
+    "width": 1440,
+    "height": 1153
+  },
+  {
+    "name": "custom-orders",
+    "width": 1440,
+    "height": 2594
+  },
+  {
+    "name": "not-found",
+    "width": 1440,
+    "height": 971
+  }
+]

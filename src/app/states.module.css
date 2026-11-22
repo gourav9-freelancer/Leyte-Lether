@@ -1,0 +1,90 @@
+/* Global System States — Figma 1:3088 (desktop) / 1:3546 (mobile). */
+.notFound {
+  padding: 48px 0;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+@media (min-width: 900px) {
+  .notFound {
+    padding: 96px 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3);
+  padding-top: var(--space-2);
+}
+.link {
+  font-size: var(--type-button);
+  font-weight: 600;
+  color: var(--color-brand-saddle);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 var(--space-2);
+}
+.visual {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius-2xl);
+  overflow: hidden;
+  background: var(--color-brand-parchment);
+  border: var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.visual img {
+  object-fit: cover;
+  opacity: 0.35;
+}
+.code {
+  position: relative;
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 1;
+  color: var(--color-brand-espresso);
+}
+.errorCard {
+  max-width: 620px;
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  align-items: flex-start;
+}
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  background: var(--color-error-bg);
+  color: var(--color-error);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+}

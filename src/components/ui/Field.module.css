@@ -1,0 +1,157 @@
+/* Form fields (README §8; Figma sign-in card: label 14/17 600, 8px gap, 48px input). */
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  min-width: 0;
+}
+.labelRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+.label {
+  font-size: var(--type-body-s);
+  line-height: 17px;
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.required {
+  color: var(--color-error);
+  margin-left: 2px;
+}
+.optional {
+  font-weight: 400;
+  color: var(--color-neutral-600);
+}
+.control {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.input,
+.select,
+.textarea {
+  width: 100%;
+  min-height: 48px;
+  padding: 0 var(--space-4);
+  background: var(--color-brand-white);
+  border: var(--border-default);
+  border-radius: var(--radius-md);
+  color: var(--color-neutral-950);
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  transition:
+    border-color var(--motion-fast) var(--motion-ease),
+    box-shadow var(--motion-fast) var(--motion-ease);
+  appearance: none;
+}
+/* 16px on touch devices prevents iOS zoom on focus. */
+@media (max-width: 899px) {
+  .input,
+  .select,
+  .textarea {
+    font-size: 16px;
+  }
+}
+.textarea {
+  min-height: 120px;
+  padding: var(--space-3) var(--space-4);
+  resize: vertical;
+}
+.input::placeholder,
+.textarea::placeholder {
+  color: var(--color-neutral-500);
+}
+.input:hover,
+.select:hover,
+.textarea:hover {
+  border-color: var(--color-neutral-500);
+}
+.input:focus,
+.select:focus,
+.textarea:focus {
+  outline: none;
+  border-color: var(--color-brand-saddle);
+  box-shadow: 0 0 0 1px var(--color-brand-saddle);
+}
+.input:disabled,
+.select:disabled,
+.textarea:disabled {
+  background: var(--color-neutral-100);
+  color: var(--color-neutral-600);
+  cursor: not-allowed;
+}
+.invalid {
+  border-color: var(--color-error);
+}
+.invalid:focus {
+  border-color: var(--color-error);
+  box-shadow: 0 0 0 1px var(--color-error);
+}
+.withIcon {
+  padding-left: 48px;
+}
+.withAction {
+  padding-right: 52px;
+}
+.leadingIcon {
+  position: absolute;
+  left: 16px;
+  color: var(--color-neutral-600);
+  pointer-events: none;
+}
+.action {
+  position: absolute;
+  right: 2px;
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+  color: var(--color-neutral-700);
+  border-radius: var(--radius-md);
+}
+.action:hover {
+  color: var(--color-brand-espresso);
+}
+.select {
+  padding-right: 44px;
+  cursor: pointer;
+}
+.chevron {
+  position: absolute;
+  right: 14px;
+  pointer-events: none;
+  color: var(--color-neutral-700);
+}
+.hint {
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-600);
+}
+.error {
+  display: flex;
+  gap: var(--space-1);
+  align-items: flex-start;
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-error);
+}
+.error svg {
+  margin-top: 2px;
+  flex: none;
+}
+.labelAction {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-brand-saddle);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.labelAction:hover {
+  color: var(--color-brand-espresso);
+}

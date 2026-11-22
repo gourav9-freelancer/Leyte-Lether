@@ -1,0 +1,313 @@
+/* Product workspace — shared by product detail and the customiser (Figma 1:1632 / 1:1876). */
+.crumbBar {
+  padding: 12px 0 13px;
+}
+.crumbInner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2) var(--space-4);
+}
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: 44px;
+  font-size: var(--type-button);
+  line-height: 17px;
+  font-weight: 600;
+  color: var(--color-brand-saddle);
+}
+.backLink:hover {
+  color: var(--color-brand-espresso);
+}
+@media (min-width: 900px) {
+  .crumbBar {
+    padding: 16px 0 17px;
+  }
+}
+
+.switcher {
+  background: var(--color-brand-parchment);
+  border-top: var(--border-subtle);
+  border-bottom: var(--border-subtle);
+  padding: 12px 0;
+}
+.switcherInner {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.switcherLabel {
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--color-brand-espresso);
+}
+.switcherGroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+.switch {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 12px;
+  border: var(--border-default);
+  border-radius: var(--radius-md);
+  background: var(--color-brand-white);
+  color: var(--color-brand-espresso);
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+}
+.switch[aria-current="page"] {
+  background: var(--color-brand-espresso);
+  border-color: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+}
+@media (min-width: 900px) {
+  .switcherInner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .switch {
+    min-height: 36px;
+  }
+}
+
+.workspace {
+  padding: 24px 0 48px;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+@media (min-width: 900px) {
+  .workspace {
+    padding: 64px 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 48px;
+    align-items: start;
+  }
+  .galleryCol {
+    position: sticky;
+    top: 96px;
+  }
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+@media (min-width: 900px) {
+  .panel {
+    gap: var(--space-8);
+  }
+}
+.titleBlock {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-bottom: var(--space-8);
+  border-bottom: var(--border-subtle);
+}
+.title {
+  color: var(--color-brand-espresso);
+}
+.price {
+  font-size: var(--type-h4);
+  line-height: var(--lh-h4);
+  font-weight: 600;
+  color: var(--color-brand-espresso);
+  font-variant-numeric: tabular-nums;
+}
+.lead {
+  color: var(--color-neutral-700);
+}
+
+/* Step cards (Figma STEP 01–03) */
+.step {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+@media (min-width: 900px) {
+  .step {
+    gap: var(--space-5);
+  }
+}
+@media (min-width: 900px) {
+  .step {
+    padding: 25px;
+  }
+}
+.stepHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+.stepHead .stepStatus {
+  display: none;
+}
+@media (min-width: 900px) {
+  .stepHead {
+    padding-bottom: 13px;
+    border-bottom: var(--border-subtle);
+  }
+  .stepHead .stepStatus {
+    display: inline;
+  }
+}
+.stepTitle {
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--color-brand-saddle);
+}
+.stepStatus {
+  font-size: 12px;
+  line-height: 17px;
+  color: var(--color-neutral-700);
+  white-space: nowrap;
+}
+.optionGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-3);
+}
+@media (min-width: 640px) {
+  .optionGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.optionCard {
+  border: var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: var(--space-3) var(--space-3);
+  background: var(--color-brand-white);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+.optionTitle {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.optionText {
+  font-size: 13px;
+  line-height: 20px;
+  color: var(--color-neutral-700);
+}
+.stepText {
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-700);
+}
+.summary {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.summaryRow {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+@media (min-width: 900px) {
+  .summaryRow {
+    font-size: var(--type-body);
+    line-height: 26px;
+  }
+}
+.summaryRow dd {
+  color: var(--color-neutral-950);
+  text-align: right;
+}
+.summaryTotal {
+  padding-top: var(--space-3);
+  border-top: var(--border-subtle);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.summaryTotal dd {
+  font-size: var(--type-h4);
+  line-height: var(--lh-h4);
+}
+.customAlt {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-700);
+}
+@media (min-width: 640px) {
+  .customAlt {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.facts {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.fact {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  font-size: var(--type-body-s);
+  line-height: var(--lh-body-s);
+  color: var(--color-neutral-800);
+}
+.fact svg {
+  color: var(--color-brand-saddle);
+  flex: none;
+  margin-top: 1px;
+}
+
+.related {
+  padding: 48px 0;
+  border-top: var(--border-subtle);
+}
+.relatedGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-6);
+}
+@media (min-width: 900px) {
+  .related {
+    padding: 96px 0;
+  }
+  .relatedGrid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: var(--space-6);
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,305 @@
+==========================================================================================
+[frame] Leyte Leather — Homepage (Desktop)  (1280x6087) 1:2
+  [frame] Container  (1280x6087) 1:3
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (1280x38) 1:4
+        [text] Handcrafted in Sudbury, ON  (181x21) 1:6
+        [text] Full-grain leather  (109x21) 1:9
+        [text] Custom orders welcome  (155x21) 1:12
+    [frame] Main  (1280x5730) 1:13
+      [frame] Section - SECTION 03: HERO — BRAND INTRODUCTION (DARK ESPRESSO)  (1280x606) 1:14
+      [frame] Section - SECTION 04: BRAND VALUE / INTRODUCTION (LIGHT CREAM)  (1280x209) 1:37
+      [frame] Section - SECTION 05: FEATURED PRODUCT COLLECTION (LIGHT CREAM)  (1280x1350) 1:63
+      [frame] Section - SECTION 06: CRAFTSMANSHIP STORY (DARK ESPRESSO)  (1280x584) 1:172
+      [frame] Section - SECTION 07: PRODUCT CATEGORY DISCOVERY (LIGHT CREAM)  (1280x808) 1:195
+      [frame] Section - SECTION 08: PERSONALISATION STORY (LIGHT PARCHMENT)  (1280x705) 1:251
+      [frame] Section - SECTION 09: CUSTOM ORDERS FEATURE (DARK)  (1280x573) 1:292
+      [frame] Section - SECTION 10: BRAND STORY / ABOUT (LIGHT CREAM)  (1280x609) 1:323
+      [frame] Section - SECTION 11: FINAL CONVERSION SECTION (LIGHT PARCHMENT)  (1280x285) 1:340
+    [frame] Footer - SECTION 12: GLOBAL FOOTER (DARK)  (1280x246) 1:350
+    [frame] Header - SECTION 02: GLOBAL HEADER  (1280x73) 1:385
+        [frame] Nav - Primary navigation  (312x35) 1:389
+==========================================================================================
+[frame] Leyte Leather — Homepage (Mobile)  (390x5747) 1:412
+  [frame] Container  (390x5747) 1:413
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (390x34) 1:414
+    [frame] Main  (390x5299) 1:417
+      [frame] Section - SECTION 03: HERO (DARK ESPRESSO, MOBILE-FIRST COMPOSITION)  (390x692) 1:418
+      [frame] Section - SECTION 04: BRAND VALUE PROPOSITION  (390x276) 1:439
+      [frame] Section - SECTION 05: FEATURED PRODUCT COLLECTION (2-COLUMN MOBILE GRID)  (390x1586) 1:456
+      [frame] Section - SECTION 06: CRAFTSMANSHIP STORY (DARK ESPRESSO)  (390x654) 1:541
+      [frame] Section - SECTION 07: CATEGORY DISCOVERY  (390x502) 1:556
+      [frame] Section - SECTION 08: PERSONALISATION STORY (LIGHT PARCHMENT)  (390x339) 1:585
+      [frame] Section - SECTION 09: CUSTOM ORDERS FEATURE (DARK)  (390x607) 1:596
+      [frame] Section - SECTION 10 & 11: ABOUT & FINAL CONVERSION  (390x339) 1:619
+      [frame] Section  (390x305) 1:630
+    [frame] Footer - SECTION 12: GLOBAL FOOTER  (390x349) 1:641
+    [frame] Header - SECTION 02: COMPACT MOBILE HEADER  (390x65) 1:669
+        [frame] Button - Open navigation menu  (44x44) 1:671
+        [frame] Button - Shopping cart, 0 items  (62x44) 1:676
+==========================================================================================
+[frame] Leyte Leather — About Us (Desktop)  (1280x6086) 1:682
+  [frame] Container  (1280x6086) 1:683
+    [frame] SECTION 01: GLOBAL ANNOUNCEMENT BAR  (1280x38) 1:684
+    [frame] Main  (1280x5729) 1:693
+      [frame] Section - SECTION 02: ABOUT HERO / BRAND IDENTITY (DARK ESPRESSO, CENTERED EDITORIAL + WID  (1280x1105) 1:694
+      [frame] Section - SECTION 03: OUR PHILOSOPHY (LIGHT CREAM)  (1280x606) 1:709
+      [frame] Section - SECTION 04: THE MATERIAL (DARK ESPRESSO)  (1280x584) 1:723
+      [frame] Section - SECTION 05: THE CRAFT (LIGHT PARCHMENT)  (1280x428) 1:743
+      [frame] Section - SECTION 06: MADE IN SUDBURY (DARK)  (1280x606) 1:763
+      [frame] Section - SECTION 07: MORE THAN A COLLECTION (LIGHT CREAM)  (1280x1187) 1:779
+      [frame] Section - SECTION 08: PERSONALISATION AND CUSTOM WORK (DARK ESPRESSO)  (1280x599) 1:847
+      [frame] Section - SECTION 09: BRAND PROMISE / KEY VALUES (LIGHT CREAM)  (1280x276) 1:879
+      [frame] Section - SECTION 10: FINAL BRAND CTA (LIGHT PARCHMENT)  (1280x338) 1:905
+    [frame] Footer - SECTION 11: GLOBAL FOOTER (REUSED VERBATIM FROM HOMEPAGE)  (1280x246) 1:916
+    [frame] Header - SECTION 01: GLOBAL HEADER (About active)  (1280x73) 1:951
+        [frame] Nav - Primary navigation  (323x35) 1:955
+==========================================================================================
+[frame] Leyte Leather — About Us (Mobile)  (390x6150) 1:978
+  [frame] Container  (390x6150) 1:979
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (390x34) 1:980
+    [frame] Main  (390x5702) 1:983
+      [frame] Section - SECTION 02: ABOUT HERO  (390x598) 1:984
+      [frame] Section - SECTION 03: OUR PHILOSOPHY  (390x634) 1:998
+      [frame] Section - SECTION 04: THE MATERIAL  (390x554) 1:1010
+      [frame] Section - SECTION 05: THE CRAFT  (390x554) 1:1026
+      [frame] Section - SECTION 06: MADE IN SUDBURY  (390x594) 1:1037
+      [frame] Section - SECTION 07: MORE THAN A COLLECTION  (390x1457) 1:1048
+      [frame] Section - SECTION 08: PERSONALISATION & CUSTOM WORK  (390x659) 1:1115
+      [frame] Section - SECTION 09: BRAND PROMISE / KEY VALUES  (390x318) 1:1138
+      [frame] Section - SECTION 10: FINAL BRAND CTA  (390x336) 1:1155
+    [frame] Footer - SECTION 11: GLOBAL FOOTER (REUSED VERBATIM FROM HOMEPAGE)  (390x349) 1:1168
+    [frame] Header - SECTION 01: COMPACT MOBILE HEADER (About active in drawer)  (390x65) 1:1196
+        [frame] Button - Open navigation menu  (44x44) 1:1198
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:1203
+==========================================================================================
+[frame] Leyte Leather — Shop All Products (Desktop)  (1280x2157) 1:1209
+  [frame] Container  (1280x2157) 1:1210
+    [frame] SECTION 01: GLOBAL ANNOUNCEMENT BAR  (1280x38) 1:1211
+    [frame] Main  (1280x1800) 1:1220
+      [frame] Section - SECTION 03: SHOP HERO / COLLECTION INTRODUCTION (COMPACT DARK ESPRESSO)  (1280x249) 1:1221
+      [frame] Section - SECTION 04 & 05: PRODUCT DISCOVERY, FILTERS & CATALOGUE GRID  (1280x1222) 1:1229
+      [frame] Section - SECTION 06: PRODUCT DISCOVERY GUIDANCE (LIGHT PARCHMENT)  (1280x329) 1:1380
+    [frame] Footer - SECTION 07: GLOBAL FOOTER  (1280x246) 1:1388
+    [frame] Header - SECTION 02: GLOBAL HEADER (Shop active)  (1280x73) 1:1423
+        [frame] Nav - Primary navigation  (323x35) 1:1427
+==========================================================================================
+[frame] Leyte Leather — Shop All Products (Mobile)  (390x2556) 1:1450
+  [frame] Container  (390x2556) 1:1451
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (390x34) 1:1452
+    [frame] Main  (390x2108) 1:1455
+      [frame] Section - SECTION 03: COMPACT COLLECTION INTRODUCTION  (390x219) 1:1456
+      [frame] Section - SECTION 04 & 05: MOBILE SEARCH, CATEGORY PILLS, FILTER SHEET, GRID  (390x1580) 1:1464
+      [frame] Section - SECTION 06: PRODUCT DISCOVERY GUIDANCE  (390x309) 1:1582
+    [frame] Footer - SECTION 07: GLOBAL FOOTER  (390x349) 1:1591
+    [frame] Header - SECTION 02: COMPACT MOBILE HEADER (Shop active)  (390x65) 1:1619
+        [frame] Button - Open navigation menu  (44x44) 1:1621
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:1626
+==========================================================================================
+[frame] Leyte Leather — Product Customiser (Desktop)  (1280x1971) 1:1632
+  [frame] Container  (1280x1971) 1:1633
+    [frame] SECTION 01: GLOBAL ANNOUNCEMENT BAR  (1280x38) 1:1634
+    [frame] Main  (1280x1614) 1:1643
+      [frame] SECTION 02: BREADCRUMB & PRODUCT CONTEXT BAR  (1280x54) 1:1644
+      [frame] PERSONALISABLE PRODUCT SWITCHER (Reusable Framework Context)  (1280x61) 1:1666
+      [frame] Section - SECTION 03 & 04: TWO-COLUMN CUSTOMISER WORKSPACE  (1280x1499) 1:1675
+    [frame] Footer - GLOBAL FOOTER  (1280x246) 1:1814
+    [frame] Header - SECTION 01: GLOBAL HEADER (Shop active)  (1280x73) 1:1849
+        [frame] Nav - Primary navigation  (323x35) 1:1853
+==========================================================================================
+[frame] Leyte Leather — Product Customiser (Mobile)  (390x2135) 1:1876
+  [frame] Container  (390x2135) 1:1877
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (390x34) 1:1878
+    [frame] Main  (390x1614) 1:1881
+      [frame] 1. BREADCRUMB  (390x46) 1:1882
+        [frame] Nav - Breadcrumb  (350x21) 1:1883
+      [frame] Section - 2. PRODUCT NAME & PRICE  (390x240) 1:1894
+        [frame] Background:align-flex-start  (350x25) 1:1895
+      [frame] Section - 3. PRODUCT IMAGE GALLERY  (390x555) 1:1904
+        [frame] Background+Border  (350x438) 1:1905
+      [frame] Section - 4. CONFIGURATION GROUPS (PENDING BUSINESS CONFIRMATION)  (390x677) 1:1921
+        [frame] Status  (350x139) 1:1922
+        [frame] Background+Border  (350x113) 1:1930
+        [frame] Background+Border  (350x113) 1:1935
+        [frame] 5. CONFIGURATION SUMMARY & 6. FINAL PRICE  (350x176) 1:1940
+        [frame] Link - Scenario 14: Request a fully custom piece  (350x48) 1:1958
+    [frame] Footer - GLOBAL FOOTER  (390x349) 1:1961
+    [frame] 7. STICKY MOBILE PURCHASE BAR  (390x73) 1:1989
+    [frame] Header - COMPACT MOBILE HEADER  (390x65) 1:1997
+        [frame] Button - Open navigation menu  (44x44) 1:1999
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:2004
+==========================================================================================
+[frame] Leyte Leather — Shopping Cart (Desktop)  (1280x1246) 1:2011
+  [frame] Container  (1280x1246) 1:2012
+    [frame] SECTION 01: GLOBAL ANNOUNCEMENT BAR  (1280x38) 1:2013
+    [frame] Main  (1280x889) 1:2022
+      [frame] Section - SECTION 03: CART INTRODUCTION  (1280x176) 1:2023
+      [frame] Section - SECTION 04: MAIN CART LAYOUT  (1280x713) 1:2034
+        [frame] Active Cart Two-Column Grid  (1152x585) 1:2035
+    [frame] Footer - GLOBAL FOOTER  (1280x246) 1:2142
+    [frame] Header - SECTION 02: GLOBAL HEADER (Cart active)  (1280x73) 1:2177
+        [frame] Nav - Primary navigation  (323x35) 1:2181
+==========================================================================================
+[frame] Leyte Leather — Shopping Cart (Mobile)  (390x1664) 1:2204
+  [frame] Container  (390x1664) 1:2205
+    [frame] SECTION 01: ANNOUNCEMENT BAR  (390x34) 1:2206
+    [frame] Main  (390x1109) 1:2209
+      [frame] Section - CART INTRODUCTION  (390x160) 1:2210
+      [frame] Section - CART ITEMS & SUMMARY  (390x853) 1:2218
+        [frame] Background+Border  (350x312) 1:2282
+    [frame] Footer - GLOBAL FOOTER  (390x349) 1:2307
+    [frame] STICKY MOBILE CHECKOUT BAR  (390x73) 1:2335
+    [frame] Header - COMPACT MOBILE HEADER (Cart active)  (390x65) 1:2343
+        [frame] Button - Open navigation menu  (44x44) 1:2345
+        [frame] Link - Shopping cart, 2 items  (64x44) 1:2350
+==========================================================================================
+[frame] Leyte Leather — Gallery (Desktop)  (1280x5351) 1:2356
+  [frame] Container  (1280x5351) 1:2357
+    [frame] SECTION A: GLOBAL ANNOUNCEMENT BAR & HEADER (Gallery active)  (1280x38) 1:2358
+    [frame] Main  (1280x4994) 1:2367
+      [frame] Section - SECTION B: EDITORIAL GALLERY HERO (DARK ESPRESSO, IMAGE-FIRST ASYMMETRIC SPLIT)  (1280x568) 1:2368
+      [frame] Section - SECTION C & D: GALLERY INTRODUCTION & CATEGORY FILTERS  (1280x289) 1:2391
+      [frame] Section - SECTION E & F: MAIN EDITORIAL GALLERY GRID  (1280x2676) 1:2411
+      [frame] Section - SECTION G: CRAFTSMANSHIP STORY SECTION (DARK ESPRESSO)  (1280x600) 1:2533
+      [frame] Section - SECTION H: CUSTOM ORDER DISCOVERY (LIGHT PARCHMENT)  (1280x577) 1:2547
+      [frame] Section - SECTION I: FINAL CTA (LIGHT CREAM)  (1280x285) 1:2564
+    [frame] Footer - SECTION J: EXISTING SHARED FOOTER  (1280x246) 1:2574
+    [frame] Header  (1280x73) 1:2609
+        [frame] Nav - Primary navigation  (323x35) 1:2613
+==========================================================================================
+[frame] Leyte Leather — Gallery (Mobile)  (390x5655) 1:2636
+  [frame] Container  (390x5655) 1:2637
+    [frame] SECTION A: ANNOUNCEMENT BAR & COMPACT MOBILE HEADER (Gallery active)  (390x34) 1:2638
+    [frame] Main  (390x5207) 1:2641
+      [frame] Section - SECTION B: EDITORIAL HERO  (390x720) 1:2642
+      [frame] Section - SECTION C & D: INTRO & FILTERS  (390x302) 1:2662
+      [frame] Section - SECTION E & F: MOBILE GALLERY SEQUENCE  (390x2920) 1:2682
+      [frame] Section - SECTION G: CRAFTSMANSHIP STORY  (390x620) 1:2796
+      [frame] Section - SECTION H & I: CUSTOM ORDER DISCOVERY & FINAL CTA  (390x341) 1:2807
+      [frame] Section  (390x305) 1:2817
+    [frame] Footer - SECTION J: EXISTING SHARED FOOTER  (390x349) 1:2825
+    [frame] Header  (390x65) 1:2853
+        [frame] Button - Open navigation menu  (44x44) 1:2855
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:2860
+==========================================================================================
+[frame] Leyte Leather — My Account (Desktop)  (1280x1948) 1:2866
+  [frame] Container  (1280x1948) 1:2867
+    [frame] SHARED ANNOUNCEMENT BAR  (1280x38) 1:2868
+    [frame] Main  (1280x1591) 1:2877
+      [frame] Section  (1280x780) 1:2878
+      [frame] Section  (1280x811) 1:2922
+    [frame] Footer - SHARED FOOTER  (1280x246) 1:3026
+    [frame] Header - SHARED HEADER (Account active)  (1280x73) 1:3061
+        [frame] Nav - Primary navigation  (323x35) 1:3065
+==========================================================================================
+[frame] Leyte Leather — Global System States (Desktop)  (1280x3866) 1:3088
+  [frame] Container  (1280x3866) 1:3089
+    [frame] SHARED ANNOUNCEMENT BAR  (1280x38) 1:3090
+    [frame] Main  (1280x3509) 1:3099
+      [frame] Section  (1280x607) 1:3100
+      [frame] Section  (1280x828) 1:3123
+      [frame] Section  (1280x1252) 1:3188
+      [frame] Section  (1280x822) 1:3267
+    [frame] Footer - SHARED FOOTER  (1280x246) 1:3319
+    [frame] Header - SHARED HEADER  (1280x73) 1:3354
+        [frame] Nav - Primary navigation  (323x35) 1:3358
+==========================================================================================
+[frame] Leyte Leather — My Account (Mobile)  (390x2031) 1:3381
+  [frame] Container  (390x2031) 1:3382
+    [frame] SHARED ANNOUNCEMENT BAR & COMPACT MOBILE HEADER (Account active)  (390x34) 1:3383
+    [frame] Main  (390x1583) 1:3386
+      [frame] Section  (390x685) 1:3387
+      [frame] Section  (390x898) 1:3428
+    [frame] Footer - SHARED FOOTER  (390x349) 1:3505
+    [frame] Header  (390x65) 1:3533
+        [frame] Button - Open navigation menu  (44x44) 1:3535
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:3540
+==========================================================================================
+[frame] Leyte Leather — Global System States (Mobile)  (390x3194) 1:3546
+  [frame] Container  (390x3194) 1:3547
+    [frame] SHARED ANNOUNCEMENT BAR & COMPACT MOBILE HEADER  (390x34) 1:3548
+    [frame] Main  (390x2746) 1:3551
+      [frame] Section - PART B: 404 PAGE NOT FOUND (MOBILE)  (390x712) 1:3552
+      [frame] Section - PART C: ERROR & SESSION EXPIRED STATES (MOBILE)  (390x758) 1:3570
+      [frame] Section - PART A: LOADING SKELETONS (MOBILE)  (390x587) 1:3602
+      [frame] Section - PART D: EMPTY STATES (MOBILE)  (390x688) 1:3634
+    [frame] Footer - SHARED FOOTER  (390x349) 1:3658
+    [frame] Header  (390x65) 1:3686
+        [frame] Button - Open navigation menu  (44x44) 1:3688
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:3693
+==========================================================================================
+[frame] Leyte Leather — Order History (Desktop)  (1280x1816) 1:3699
+  [frame] Container  (1280x1816) 1:3700
+    [frame] SHARED ANNOUNCEMENT BAR  (1280x38) 1:3701
+    [frame] Main  (1280x1459) 1:3710
+        [frame] Page Introduction  (720x111) 1:3712
+        [frame] Account Layout: Left Navigation + Main Order Content  (1152x1188) 1:3719
+    [frame] Footer - SHARED FOOTER  (1280x246) 1:3887
+    [frame] Header - SHARED HEADER (Account active)  (1280x73) 1:3922
+        [frame] Nav - Primary navigation  (323x35) 1:3926
+==========================================================================================
+[frame] Leyte Leather — Order History (Mobile)  (390x2078) 1:3949
+  [frame] Container  (390x2078) 1:3950
+    [frame] SHARED ANNOUNCEMENT BAR & COMPACT MOBILE HEADER (Account active)  (390x34) 1:3951
+    [frame] Main  (390x1630) 1:3954
+        [frame] Page Introduction  (350x125) 1:3956
+        [frame] Nav - Account navigation  (350x127) 1:3963
+        [frame] LIST VIEW  (350x1266) 1:3992
+    [frame] Footer - SHARED FOOTER  (390x349) 1:4084
+    [frame] Header  (390x65) 1:4112
+        [frame] Button - Open navigation menu  (44x44) 1:4114
+        [frame] Link - Shopping cart, 0 items  (62x44) 1:4119
+==========================================================================================
+[frame] Leyte Leather — Personal Information (Desktop)  (1280x1024) 3:2
+  [frame] Container  (1280x1024) 3:3
+    [frame] SHARED ANNOUNCEMENT BAR  (1280x38) 3:4
+    [frame] Main  (1280x667) 3:13
+      [frame] Section  (1280x524) 3:14
+        [frame] Page Introduction  (720x111) 3:15
+        [frame] Account Grid: Left Navigation + Personal Information Content  (1152x381) 3:22
+    [frame] Footer - SHARED FOOTER  (1280x246) 3:96
+    [frame] Header - SHARED HEADER (Account active)  (1280x73) 3:131
+        [frame] Nav - Primary navigation  (323x35) 3:135
+==========================================================================================
+[frame] Leyte Leather — Personal Information (Mobile)  (390x1034) 3:158
+  [frame] Container  (390x1034) 3:159
+    [frame] SHARED ANNOUNCEMENT BAR & COMPACT MOBILE HEADER  (390x34) 3:160
+    [frame] Main  (390x735) 3:163
+      [frame] Section  (350x655) 3:164
+        [frame] Page Introduction  (350x125) 3:165
+        [frame] Nav - Account navigation  (350x127) 3:172
+        [frame] Personal Information Card  (350x355) 3:201
+    [frame] Footer - SHARED FOOTER  (390x200) 3:231
+    [frame] Header  (390x65) 3:237
+        [frame] Button - Open navigation menu  (44x44) 3:239
+        [frame] Link - Shopping cart, 0 items  (62x44) 3:244
+==========================================================================================
+[frame] Leyte Leather — Loading States & Spinner System (Mobile)  (390x3369) 3:251
+  [frame] Container  (390x3369) 3:252
+    [frame] SHARED ANNOUNCEMENT BAR & COMPACT MOBILE HEADER  (390x34) 3:253
+    [frame] Main  (390x3070) 3:256
+      [frame] Section - INTRO  (390x288) 3:257
+      [frame] Section - SECTION A — SPINNER COMPONENT  (390x550) 3:265
+      [frame] Section - SECTION B — BUTTON LOADING STATES  (390x505) 3:296
+      [frame] Section - SECTION C — PAGE SKELETON LOADING  (390x848) 3:324
+      [frame] Section - SECTION D & DROPDOWNS  (390x472) 3:348
+      [frame] Section - SECTION F — RULES  (390x407) 3:380
+    [frame] Footer - SHARED FOOTER  (390x200) 3:393
+    [frame] Header  (390x65) 3:399
+        [frame] Button - Open navigation menu  (44x44) 3:401
+        [frame] Link - Shopping cart, 0 items  (62x44) 3:406
+==========================================================================================
+[frame] Leyte Leather — Loading States & Spinner System (Desktop)  (1280x6004) 3:412
+  [frame] Container  (1280x6004) 3:413
+    [frame] SHARED ANNOUNCEMENT BAR  (1280x38) 3:414
+    [frame] Main  (1280x5648) 3:423
+      [frame] Section - SHOWCASE INTRO  (1280x342) 3:424
+      [frame] Section - SECTION A — SPINNER COMPONENT  (1280x557) 3:448
+      [frame] Section - SECTION B — BUTTON LOADING STATES  (1280x705) 3:491
+      [frame] Section - SECTION C — PAGE SKELETON LOADING  (1280x1808) 3:551
+      [frame] Section - SECTION D — INLINE LOADING STATES  (1280x441) 3:637
+      [frame] Section - SECTION E — INITIAL PAGE LOADING  (1280x857) 3:689
+      [frame] Section - DROPDOWN CONTROLS SHOWCASE  (1280x472) 3:728
+      [frame] Section - SECTION F — LOADING DESIGN RULES  (1280x465) 3:770
+    [frame] Footer - SHARED FOOTER  (1280x246) 3:808
+    [frame] Header - SHARED HEADER  (1280x73) 3:843
+        [frame] Nav - Primary navigation  (323x35) 3:847

@@ -1,0 +1,434 @@
+const imgBackgroundBorder = "4c05606a-29db-4828-bdc8-dc893b01e1d5.png";
+const imgBackgroundBorder1 = "dd1306f9-df4d-4b57-9850-a6e268fe9448.png";
+const imgBackgroundBorder2 = "d48a0e10-2a28-405e-817c-f8684146ab5e.png";
+const imgBackgroundBorder3 = "dc233122-59c8-45a3-96eb-0fa57cf14249.png";
+const imgBackgroundBorder4 = "edc1bb48-c995-4a24-9b51-d4d0308129bf.png";
+const imgBackgroundBorder5 = "b7b5a643-618c-4901-a7e2-c6fc96905599.png";
+const imgBackgroundBorder6 = "036c3264-d7af-49a3-bcb6-1de6c4719c81.png";
+const imgBackground = "747e9e0c-9b01-4336-a0d5-0b4cace52fc8.png";
+const imgBackground1 = "0e314a44-f47e-4eeb-ad7c-6154c590f47a.png";
+const imgBackground2 = "bc6c1ea9-fe39-4117-844a-32ad113ef202.png";
+const imgBackground3 = "bd1c2891-9378-42a2-8341-1d970948ce7e.png";
+const imgBackground4 = "d3f18a6d-e63f-4c3b-8727-491a2f16d2dd.png";
+const imgBackground5 = "9ef633b2-e0e6-4e7f-ad00-19082cc4565e.png";
+const imgBackground6 = "329f0a81-1c97-4c47-8b7e-a62aef3b1f14.png";
+const imgBackground7 = "561b1867-ef8f-4ad3-91e0-3ff1be508637.png";
+const imgContainer = "331a3796-1dcf-4a27-997d-8c73c616c157.svg";
+const imgContainer1 = "306933ec-cfd2-4e96-a660-5479b1bbb9f8.svg";
+const imgContainer2 = "2f64ab4d-708d-4367-9c7d-4661943faf7c.svg";
+const imgContainer3 = "5ede4226-f302-47c4-b795-c7aec2b4b817.svg";
+const imgContainer4 = "93475010-7706-47ed-a567-1986ae1f6031.svg";
+export default function LeyteLeatherAboutUsDesktop() {
+  div#1:682 "Leyte Leather — About Us (Desktop)"
+   div#1:683 "Container" {h-[6086px] min-h-[1024px]}
+    div#1:684 "SECTION 01: GLOBAL ANNOUNCEMENT BAR" {bg-[#2b1d17] border-[#40352e] border-b left-0 pb-[9px] pt-[8px] px-[64px] right-0 top-0}
+     div#1:685 "Container"
+      div {gap-[8px] items-center pl-[312.39px] pr-[312.41px]}
+       div#1:686 {DM400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {`Handcrafted in Sudbury, ON `}
+       div#1:687 "Container" {h-[18px] w-[3.13px]}
+        div#1:688 {-translate-x-1/2 -translate-y-1/2 DM400 left-1/2 text-[#a88752] text-[14px] text-center top-[9px] tracking-[0.35px]}
+         p {leading-[21px]} :: ·
+       div#1:689 {DM400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {` Full-grain leather `}
+       div#1:690 "Container" {h-[18px] w-[3.13px]}
+        div#1:691 {-translate-x-1/2 -translate-y-1/2 DM400 left-1/2 text-[#a88752] text-[14px] text-center top-[9px] tracking-[0.35px]}
+         p {leading-[21px]} :: ·
+       div#1:692 {DM400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {` Custom orders welcome`}
+    div#1:693 "Main" {left-0 right-0 top-[111px]}
+     div#1:694 "Section - SECTION 02: ABOUT HERO / BRAND IDENTITY (DARK ESPRESSO, CENTERED EDITORIAL + WIDE PHOTO)" {bg-[#2b1d17] py-[96px]}
+      div#1:695 "Container" {gap-[48px] max-w-[1360px] px-[64px]}
+       div#1:696 "Margin" {px-[216px]}
+        div#1:697 "Container" {gap-[20px] items-center max-w-[720px]}
+         div#1:698 {DM600 text-[#a88752] text-[12px] text-center tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: THE STORY BEHIND LEYTE LEATHER
+         div#1:699 "Heading 1" {items-center pl-[103.05px] pr-[103.06px]}
+          div#1:700 {Corm500 text-[#fffcf8] text-[64px] text-center tracking-[-0.5px]}
+           p {leading-[65px] mb-0} :: Made by hand. Made
+           p {leading-[65px]} :: with intention.
+         div#1:701 {DM400 text-[#eee5d8] text-[18px] text-center}
+          p {leading-[30px]} :: Handcrafted leather goods, built one piece at a time in Sudbury, Ontario.
+       div#1:702 "Background+Border" {border border-[#40352e] gap-[12px] items-center px-[33px] py-[262.5px] rounded-[20px]}
+        img {inset-0 object-cover pointer-events-none rounded-[20px]} SRC=imgBackgroundBorder
+        div#1:703 "Container" {size-[40px]}
+        div#1:705 "Container" {h-[17px] w-[188.83px]}
+        div#1:707 "Container" {h-[42px] max-w-[448px] w-[448px]}
+     div#1:709 "Section - SECTION 03: OUR PHILOSOPHY (LIGHT CREAM)" {bg-[#f7f2ea] py-[96px]}
+      div#1:710 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_414px] max-w-[1280px] px-[64px]}
+       div#1:711 "Container" {col-[1/span_6] gap-[20px] justify-self-stretch row-1 self-center}
+        div#1:712 "Container"
+         div#1:713 {DM600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: OUR PHILOSOPHY
+        div#1:714 "Heading 2"
+         div#1:715 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Not made in a hurry.
+          p {leading-[52px]} :: Made with care.
+        div#1:716 "Container" {max-w-[800.2750244140625px]}
+         div#1:717 {DM400 text-[#5c5048] text-[18px]}
+          p {leading-[30px] mb-0} :: At Leyte Leather, we focus on handcrafted leather goods, built
+          p {leading-[30px] mb-0} :: one piece at a time. Our approach centres on the material, the
+          p {leading-[30px] mb-0} :: details and creating pieces that feel personal to the people who
+          p {leading-[30px]} :: use them.
+       div#1:718 "Background+Border" {border border-[#e7ded3] col-[7/span_6] gap-[12px] items-center justify-self-stretch px-[33px] py-[174.5px] rounded-[20px] row-1 self-center}
+        img {inset-0 object-cover pointer-events-none rounded-[20px]} SRC=imgBackgroundBorder1
+        div#1:719 "Container" {size-[32px]}
+        div#1:721 "Container" {h-[21px] w-[268.7px]}
+     div#1:723 "Section - SECTION 04: THE MATERIAL (DARK ESPRESSO)" {bg-[#2b1d17] py-[96px]}
+      div#1:724 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_392.50px] max-w-[1280px] px-[64px]}
+       div#1:725 "Container" {col-[1/span_7] gap-[24px] h-[392.5px] justify-self-stretch row-1 self-center}
+        div#1:726 "Background+Border" {border border-[#40352e] flex-[1_0_0] gap-[8px] items-center px-[25px] py-[167.75px] rounded-[16px]}
+         img {inset-0 object-cover pointer-events-none rounded-[16px]} SRC=imgBackgroundBorder2
+         div#1:727 "Container" {size-[28px]}
+         div#1:729 "Container" {h-[21px] w-[201.8px]}
+        div#1:731 "Background+Border" {aspect-[4/5] border border-[#40352e] flex-[1_0_0] rounded-[16px]}
+         img {inset-0 object-cover pointer-events-none rounded-[16px]} SRC=imgBackgroundBorder3
+       div#1:736 "Container" {col-[8/span_5] gap-[20px] justify-self-stretch row-1 self-center}
+        div#1:737 "Container"
+         div#1:738 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: THE MATERIAL
+        div#1:739 "Heading 2"
+         div#1:740 {Corm600 text-[#fffcf8] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Let the leather
+          p {leading-[52px]} :: speak for itself.
+        div#1:741 "Container"
+         div#1:742 {DM400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: Full-grain leather is central to the way Leyte Leather
+          p {leading-[30px] mb-0} :: presents its collection. The material, its natural
+          p {leading-[30px] mb-0} :: character and the finished details are an important
+          p {leading-[30px]} :: part of every product.
+     div#1:743 "Section - SECTION 05: THE CRAFT (LIGHT PARCHMENT)" {bg-[#eee5d8] py-[96px]}
+      div#1:744 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_235.50px] max-w-[1280px] px-[64px]}
+       div#1:745 "Container" {col-[1/span_5] gap-[20px] justify-self-stretch row-1 self-center}
+        div#1:746 "Container"
+         div#1:747 {DM600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: THE CRAFT
+        div#1:748 "Heading 2"
+         div#1:749 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px]} :: One piece at a time.
+        div#1:750 "Container"
+         div#1:751 {DM400 text-[#40352e] text-[18px]}
+          p {leading-[30px] mb-0} :: Every piece represents an approach centred on
+          p {leading-[30px] mb-0} :: handcrafted leather goods rather than mass-
+          p {leading-[30px]} :: produced accessories.
+       div#1:752 "Container" {col-[6/span_7] gap-[24px] h-[235.5px] justify-self-stretch row-1 self-center}
+        div#1:753 "Background+Border" {border border-[#e7ded3] flex-[1_0_0] gap-[8px] items-center px-[25px] py-[89.25px] rounded-[16px]}
+         img {inset-0 object-cover pointer-events-none rounded-[16px]} SRC=imgBackgroundBorder4
+         div#1:754 "Container" {size-[28px]}
+         div#1:756 "Container" {h-[21px] w-[241.33px]}
+        div#1:758 "Background+Border" {border border-[#e7ded3] flex-[1_0_0] gap-[8px] items-center px-[25px] py-[89.25px] rounded-[16px]}
+         img {inset-0 object-cover pointer-events-none rounded-[16px]} SRC=imgBackgroundBorder5
+         div#1:759 "Container" {size-[28px]}
+         div#1:761 "Container" {h-[21px] w-[196.14px]}
+     div#1:763 "Section - SECTION 06: MADE IN SUDBURY (DARK)" {bg-[#1d1511] py-[96px]}
+      div#1:764 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_414px] max-w-[1280px] px-[64px]}
+       div#1:765 "Background+Border" {border border-[#40352e] col-[1/span_6] gap-[12px] items-center justify-self-stretch px-[33px] py-[160px] rounded-[20px] row-1 self-center}
+        img {inset-0 object-cover pointer-events-none rounded-[20px]} SRC=imgBackgroundBorder6
+        div#1:766 "Container" {size-[32px]}
+        div#1:768 "Container" {h-[17px] w-[172.34px]}
+        div#1:770 "Container" {h-[21px] w-[282.27px]}
+       div#1:772 "Container" {col-[7/span_6] gap-[20px] justify-self-stretch row-1 self-center}
+        div#1:773 "Container"
+         div#1:774 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: OUR HOME
+        div#1:775 "Heading 2"
+         div#1:776 {Corm600 text-[#fffcf8] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Handcrafted in
+          p {leading-[52px]} :: Sudbury, Ontario.
+        div#1:777 "Container" {max-w-[800.2750244140625px]}
+         div#1:778 {DM400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: Sudbury is home to Leyte Leather. Our brand is built around
+          p {leading-[30px]} :: handcrafted leather goods, made one piece at a time.
+     div#1:779 "Section - SECTION 07: MORE THAN A COLLECTION (LIGHT CREAM)" {bg-[#f7f2ea] py-[96px]}
+      div#1:780 "Container" {gap-[40px] max-w-[1280px] px-[64px]}
+       div#1:781 "Container" {items-end justify-between}
+        div#1:782 "Container" {gap-[12px] max-w-[576px]}
+         div#1:783 "Heading 2"
+          div#1:784 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+           p {leading-[52px]} :: Made for different lives.
+         div#1:785 "Container"
+          div#1:786 {DM400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: From everyday essentials to accessories for personal passions, the
+           p {leading-[26px] mb-0} :: Leyte Leather collection brings together handcrafted leather goods for
+           p {leading-[26px]} :: different needs.
+        div#1:787 "Link" {bg-[#fffcf8] border border-[#d8cec2] h-[48px] items-center px-[25px] py-px rounded-[8px]}
+         div#1:788 "Container"
+           div#1:789 {DM600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Explore the collection
+       div#1:790 "Container" {gap-x-[24px] gap-y-[24px] grid grid-cols-[repeat(4,minmax(0,1fr))] grid-rows-[__403px_386px]}
+        div#1:791 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-1 justify-self-stretch p-px rounded-[12px] row-1 self-start}
+         div#1:792 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground
+          div {items-center px-[16px] py-[157px]}
+           div#1:793 "Container" {h-[21px] w-[154.84px]}
+         div#1:795 "Container"
+          div {pb-[33px] pt-[16px] px-[16px]}
+           div#1:796 "Container"
+            div#1:797 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Classic Leather Bifold Wallet
+        div#1:798 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-2 justify-self-stretch p-px rounded-[12px] row-1 self-start}
+         div#1:799 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground1
+          div {items-center px-[16px] py-[157px]}
+           div#1:800 "Container" {h-[21px] w-[154.84px]}
+         div#1:802 "Container"
+          div {pb-[33px] pt-[16px] px-[16px]}
+           div#1:803 "Container"
+            div#1:804 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Classic Full-Grain Leather Belt
+        div#1:805 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-3 justify-self-stretch p-px rounded-[12px] row-1 self-start}
+         div#1:806 "Background"
+          div {inset-0 overflow-hidden pointer-events-none}
+           img {h-full left-[-43.75%] top-0 w-[187.5%]} SRC=imgBackground2
+          div {items-center px-[16px] py-[157px]}
+           div#1:807 "Container" {h-[21px] w-[155px]}
+         div#1:809 "Container"
+          div {p-[16px]}
+           div#1:810 "Container"
+            div#1:811 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px] mb-0} :: Personalized Leather
+             p {leading-[17px]} :: Camera Strap
+        div#1:812 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-4 justify-self-stretch p-px rounded-[12px] row-1 self-start}
+         div#1:813 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground3
+          div {items-center px-[16px] py-[157px]}
+           div#1:814 "Container" {h-[21px] w-[154.84px]}
+         div#1:816 "Container"
+          div {pb-[33px] pt-[16px] px-[16px]}
+           div#1:817 "Container"
+            div#1:818 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Personalized Leather Guitar Strap
+        div#1:819 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-1 justify-self-stretch p-px rounded-[12px] row-2 self-start}
+         div#1:820 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground4
+          div {items-center px-[16px] py-[157px]}
+           div#1:821 "Container" {h-[21px] w-[154.84px]}
+         div#1:823 "Container"
+          div {p-[16px]}
+           div#1:824 "Container"
+            div#1:825 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Handmade Leather Watch Strap
+        div#1:826 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-2 justify-self-stretch p-px rounded-[12px] row-2 self-start}
+         div#1:827 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground5
+          div {items-center px-[16px] py-[157px]}
+           div#1:828 "Container" {h-[21px] w-[154.84px]}
+         div#1:830 "Container"
+          div {p-[16px]}
+           div#1:831 "Container"
+            div#1:832 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Premium Leather Dog Harness
+        div#1:833 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-3 justify-self-stretch p-px rounded-[12px] row-2 self-start}
+         div#1:834 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground6
+          div {items-center px-[16px] py-[157px]}
+           div#1:835 "Container" {h-[21px] w-[154.84px]}
+         div#1:837 "Container"
+          div {p-[16px]}
+           div#1:838 "Container"
+            div#1:839 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Handcrafted Leather Axe Sheath
+        div#1:840 "Link" {bg-[#fffcf8] border border-[#e7ded3] col-4 justify-self-stretch p-px rounded-[12px] row-2 self-start}
+         div#1:841 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground7
+          div {items-center px-[16px] py-[157px]}
+           div#1:842 "Container" {h-[21px] w-[154.84px]}
+         div#1:844 "Container"
+          div {p-[16px]}
+           div#1:845 "Container"
+            div#1:846 {DM600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Leather Car Key Fob Cover
+     div#1:847 "Section - SECTION 08: PERSONALISATION AND CUSTOM WORK (DARK ESPRESSO)" {bg-[#2b1d17] py-[96px]}
+      div#1:848 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_407px] max-w-[1280px] px-[64px]}
+       div#1:849 "Container" {col-[1/span_5] gap-[24px] justify-self-stretch row-1 self-start}
+        div#1:850 "Container"
+         div#1:851 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: MADE PERSONAL
+        div#1:852 "Heading 2"
+         div#1:853 {Corm600 text-[#fffcf8] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Your idea. Your
+          p {leading-[52px]} :: specifications.
+        div#1:854 "Container"
+         div#1:855 {DM400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: Looking for something beyond the existing collection?
+          p {leading-[30px] mb-0} :: Leyte Leather welcomes custom-order requests.
+          p {leading-[30px] mb-0} :: Share your idea, measurements and reference images,
+          p {leading-[30px] mb-0} :: and the team will review your request and email
+          p {leading-[30px]} :: a quotation.
+        div#1:856 "Container" {pt-[8px]}
+         div#1:857 "Link" {bg-[#fffcf8] items-center px-[24px] py-[15.5px] rounded-[8px]}
+          div#1:858 {DM600 text-[#2b1d17] text-[14px]}
+           p {leading-[17px]} :: Start a custom order
+       div#1:859 "Background+Border" {bg-[#1d1511] border border-[#40352e] col-[6/span_7] gap-[24px] justify-self-stretch p-[33px] rounded-[16px] row-1 self-start}
+        div#1:860 "Heading 3"
+          div#1:861 {DM600 text-[#fffcf8] text-[22px]}
+           p {leading-[29px]} :: Custom-order process
+        div#1:862 "Ordered List"
+         div {gap-[16px]}
+          div#1:863 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:864 {DM600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 01
+           div#1:865 {DM400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Share your idea.
+          div#1:866 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:867 {DM600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 02
+           div#1:868 {DM400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Provide measurements and specifications.
+          div#1:869 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:870 {DM600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 03
+           div#1:871 {DM400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Upload up to five reference images.
+          div#1:872 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:873 {DM600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 04
+           div#1:874 {DM400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Receive a quotation by email.
+          div#1:875 "Item" {gap-[16px]}
+           div#1:876 {DM600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 05
+           div#1:877 "Container" {pr-[16.78px]}
+            div#1:878 {DM400 text-[#f7f2ea] text-[16px]}
+             p {leading-[26px] mb-0} :: Accept the quotation and secure a place in the production queue with a
+             p {leading-[26px]} :: deposit.
+     div#1:879 "Section - SECTION 09: BRAND PROMISE / KEY VALUES (LIGHT CREAM)" {bg-[#f7f2ea] border-[#e7ded3] border-b pb-[81px] pt-[80px]}
+      div#1:880 "Container" {max-w-[1280px]}
+       div {gap-[32px] px-[64px]}
+        div#1:881 "Container" {flex-[1_0_0] gap-[8px] pb-[26px]}
+         div#1:882 "Container" {gap-[8px] items-center}
+          div#1:883 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer
+          div#1:885 "Heading 2"
+           div#1:886 {DM600 text-[#2b1d17] text-[22px]}
+            p {leading-[29px]} :: Handcrafted
+         div#1:887 "Container"
+          div#1:888 {DM400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Leather goods presented as handcrafted, one
+           p {leading-[26px]} :: piece at a time.
+        div#1:889 "Container" {flex-[1_0_0] gap-[8px] pb-[26px]}
+         div#1:890 "Container" {gap-[8px] items-center}
+          div#1:891 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer1
+          div#1:893 "Heading 2"
+           div#1:894 {DM600 text-[#2b1d17] text-[22px]}
+            p {leading-[29px]} :: Material-focused
+         div#1:895 "Container"
+          div#1:896 {DM400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: {`Full-grain leather is central to the brand's`}
+           p {leading-[26px]} :: product positioning.
+        div#1:897 "Container" {flex-[1_0_0] gap-[8px]}
+         div#1:898 "Container" {gap-[8px] items-center}
+          div#1:899 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer2
+          div#1:901 "Heading 2"
+           div#1:902 {DM600 text-[#2b1d17] text-[22px]}
+            p {leading-[29px]} :: Personal
+         div#1:903 "Container"
+          div#1:904 {DM400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Custom orders are welcome, allowing
+           p {leading-[26px] mb-0} :: customers to request products based on
+           p {leading-[26px]} :: their specifications.
+     div#1:905 "Section - SECTION 10: FINAL BRAND CTA (LIGHT PARCHMENT)" {bg-[#eee5d8] px-[280px] py-[80px]}
+      div#1:906 "Container" {gap-[24px] items-center max-w-[720px] px-[32px]}
+       div#1:907 {Corm600 text-[#2b1d17] text-[48px] text-center tracking-[-0.25px]}
+        p {leading-[52px]} :: {`Find a piece that's yours.`}
+       div#1:908 {DM400 text-[#40352e] text-[18px] text-center}
+        p {leading-[30px]} :: {`Explore the collection or tell us about something you'd like made.`}
+       div#1:909 "Container" {content-center flex-wrap gap-[16px] items-center}
+        div#1:910 "Link" {bg-[#2b1d17] h-[48px] items-center px-[24px] rounded-[8px]}
+         div#1:911 "Container" {items-center}
+          div#1:912 {DM600 text-[#fffcf8] text-[14px] text-center}
+           p {leading-[17px]} :: Shop the collection
+        div#1:913 "Link" {bg-[#fffcf8] border border-[#d8cec2] h-[48px] items-center px-[25px] py-px rounded-[8px]}
+         div#1:914 "Container"
+          div {items-center}
+           div#1:915 {DM600 text-[#2b1d17] text-[14px] text-center}
+            p {leading-[17px]} :: Request a custom piece
+    div#1:916 "Footer - SECTION 11: GLOBAL FOOTER (REUSED VERBATIM FROM HOMEPAGE)" {bg-[#1d1511] border-[#40352e] border-t left-0 pb-[64px] pt-[65px] right-0 top-[5840px]}
+     div#1:917 "Container" {max-w-[1280px]}
+      div {gap-x-[40px] gap-y-[40px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_117px] px-[64px]}
+       div#1:918 "Container" {col-[1/span_5] gap-[16px] justify-self-stretch pb-[22px] row-1 self-start}
+        div#1:919 "Container"
+         div#1:920 {Corm600 text-[#fffcf8] text-[32px]}
+          p {leading-[37px]} :: Leyte Leather
+        div#1:921 "Container" {max-w-[384px] w-[384px]}
+         div#1:922 {DM400 text-[#eee5d8] text-[14px]}
+          p {leading-[21px] mb-0} :: Handcrafted leather goods made one piece at a time in
+          p {leading-[21px]} :: Sudbury, Ontario, Canada.
+       div#1:923 "Container" {col-[6/span_2] gap-[12px] justify-self-stretch row-1 self-start}
+        div#1:924 "Heading 3"
+         div#1:925 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: SHOP
+        div#1:926 "List" {gap-[8px]}
+         div#1:927 "Item" {py-[1.5px]}
+          div#1:928 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: All products
+         div#1:929 "Item" {py-[1.5px]}
+          div#1:930 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Custom orders
+         div#1:931 "Item" {py-[1.5px]}
+          div#1:932 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Gallery
+       div#1:933 "Container" {col-[8/span_3] gap-[12px] justify-self-stretch row-1 self-start}
+        div#1:934 "Heading 3"
+         div#1:935 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: ACCOUNT
+        div#1:936 "List" {gap-[8px]}
+         div#1:937 "Item" {py-[1.5px]}
+          div#1:938 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: My account
+         div#1:939 "Item" {py-[1.5px]}
+          div#1:940 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Order history
+         div#1:941 "Item" {py-[1.5px]}
+          div#1:942 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Sign in
+       div#1:943 "Container" {col-[11/span_2] gap-[12px] justify-self-stretch pb-[32px] row-1 self-start}
+        div#1:944 "Heading 3"
+         div#1:945 {DM600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: ABOUT
+        div#1:946 "List" {gap-[8px]}
+         div#1:947 "Item" {py-[1.5px]}
+          div#1:948 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Our story
+         div#1:949 "Item" {py-[1.5px]}
+          div#1:950 {DM400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Shopping cart
+    div#1:951 "Header - SECTION 01: GLOBAL HEADER (About active)" {bg-[#f7f2ea] border-[#e7ded3] border-b left-0 pb-px right-0 top-[38px]}
+     div#1:952 "Container" {h-[72px] max-w-[1280px]}
+      div {items-center justify-between px-[64px]}
+       div#1:953 "Link" {rounded-[4px]}
+        div#1:954 {Corm600 text-[#2b1d17] text-[32px] tracking-[-0.8px]}
+         p {leading-[37px]} :: Leyte Leather
+       div#1:955 "Nav - Primary navigation" {gap-[32px] items-center}
+        div#1:956 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:957 {DM600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Shop
+        div#1:958 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:959 {DM600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Custom Orders
+        div#1:960 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:961 {DM600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Gallery
+        div#1:962 "Link" {border-[#8a5136] border-b-2 pb-[10px] pt-[8px]}
+         div#1:963 {DM600 text-[#8a5136] text-[14px]}
+          p {leading-[17px]} :: About
+       div#1:964 "Container" {gap-[12px] items-center}
+        div#1:965 "Link - Account" {gap-[8px] items-center min-h-[44px] p-[12px] rounded-[8px]}
+         div#1:966 "Container" {size-[20px]}
+          img {inset-0} SRC=imgContainer3
+         div#1:968 "Container"
+          div#1:969 {DM600 text-[#211a16] text-[14px]}
+           p {leading-[17px]} :: Account
+        div#1:970 "Link - Shopping cart, 0 items" {bg-[#fffcf8] border border-[#d8cec2] gap-[8px] items-center min-h-[44px] px-[13px] py-[12px] rounded-[8px]}
+         div#1:971 "Container" {size-[20px]}
+          img {inset-0} SRC=imgContainer4
+         div#1:973 "Container"
+           div#1:974 {DM600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Cart
+         div#1:975 "Background" {bg-[#2b1d17] h-[20px] min-w-[20px] rounded-[999px]}
+          div {items-center px-[5.61px]}
+           div#1:976 "Container"
+            div#1:977 {DM600 text-[#fffcf8] text-[12px] tracking-[0.4px]}
+             p {leading-[17px]} :: 0

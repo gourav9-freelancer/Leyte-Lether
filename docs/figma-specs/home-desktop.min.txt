@@ -1,0 +1,582 @@
+const imgBackgroundBorder = "07be2a67-4820-4867-b53d-baed777e6764.png";
+const imgBackground = "eeb8f743-23f8-4f1d-bdb9-fd30f33f5c37.png";
+const imgBackground1 = "8cfa8a88-6b9c-41e7-9aa8-356c0d57888c.png";
+const imgBackground2 = "de3195e5-7916-40f4-bc8c-a1d6f9bc6f69.png";
+const imgBackground3 = "b69b90ab-b808-48a2-999a-e00c5e4b73be.png";
+const imgBackground4 = "03f983eb-9982-42ab-8a71-38805286338b.png";
+const imgBackground5 = "7dfd432d-e34f-460f-a43b-fb329006e188.png";
+const imgBackground6 = "e719969b-5a74-48e5-993a-e20365314dc4.png";
+const imgBackground7 = "ec5c874c-f9d8-4e00-89fe-92a87480d841.png";
+const imgBackgroundBorder1 = "46cc894f-0d0a-4cba-902b-57f89bfd8a6a.png";
+const imgBackgroundBorder2 = "8071a1b0-821c-41d4-adbf-809b0e05a4f7.png";
+const imgBackground8 = "24155218-22b7-460f-9e6d-20ef69f9cb9b.png";
+const imgBackground9 = "7555e865-1498-4cac-971d-bd627e304d19.png";
+const imgBackground10 = "2c1dfa9d-4d49-4f7e-934d-9e87786658ec.png";
+const imgBackgroundBorder3 = "24da64e8-c11f-49a0-9e81-81e05a58cc87.png";
+const imgContainer = "c2e0d18d-7e10-4f15-aa72-7b08779b647b.svg";
+const imgContainer1 = "393fd628-11a9-4f1c-94dd-5873ff7357a9.svg";
+const imgContainer2 = "331786a5-406a-4d34-b4c5-90e9bbf640f5.svg";
+const imgContainer3 = "de78bc27-22e3-4a80-8c4f-b3a3c96780d6.svg";
+const imgContainer4 = "c9565454-e53f-4610-9459-16258d3cbbe7.svg";
+const imgContainer5 = "e52fd897-1d00-4536-8382-54e0738580b9.svg";
+export default function LeyteLeatherHomepageDesktop() {
+  div#1:2 "Leyte Leather — Homepage (Desktop)"
+   div#1:3 "Container" {h-[6087.08px] min-h-[1024px]}
+    div#1:4 "SECTION 01: ANNOUNCEMENT BAR" {bg-[#2b1d17] border-[#40352e] border-b left-0 pb-[9px] pt-[8px] px-[64px] right-0 top-0}
+     div#1:5 "Container"
+      div {gap-[8px] items-center pl-[312.39px] pr-[312.41px]}
+       div#1:6 {Jost400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {`Handcrafted in Sudbury, ON `}
+       div#1:7 "Container" {h-[18px] w-[3.13px]}
+        div#1:8 {-translate-x-1/2 -translate-y-1/2 Jost400 left-[calc(50%-0.07px)] text-[#a88752] text-[14px] text-center top-[9px] tracking-[0.35px]}
+         p {leading-[21px]} :: ·
+       div#1:9 {Jost400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {` Full-grain leather `}
+       div#1:10 "Container" {h-[18px] w-[3.13px]}
+        div#1:11 {-translate-x-1/2 -translate-y-1/2 Jost400 left-[calc(50%-0.07px)] text-[#a88752] text-[14px] text-center top-[9px] tracking-[0.35px]}
+         p {leading-[21px]} :: ·
+       div#1:12 {Jost400 text-[#f7f2ea] text-[14px] text-center tracking-[0.35px]}
+        p {leading-[21px]} :: {` Custom orders welcome`}
+    div#1:13 "Main" {left-0 right-0 top-[111px]}
+     div#1:14 "Section - SECTION 03: HERO — BRAND INTRODUCTION (DARK ESPRESSO)" {bg-[#2b1d17] py-[96px]}
+      div#1:15 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_414px] max-w-[1360px] px-[64px]}
+       div#1:16 "Container" {col-[1/span_6] gap-[24px] justify-self-stretch row-1 self-center}
+        div#1:17 "Container"
+         div#1:18 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: SUDBURY, ONTARIO · LEATHER ATELIER
+        div#1:19 "Heading 1"
+         div#1:20 {Corm500 text-[#fffcf8] text-[64px] tracking-[-0.5px]}
+          p {leading-[65px] mb-0} :: Made by hand.
+          p {leading-[65px]} :: Made to be yours.
+        div#1:21 "Container" {max-w-[664.843994140625px]}
+         div#1:22 {Jost400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: Handcrafted leather goods, built one piece at a time in
+          p {leading-[30px]} :: Sudbury, Ontario.
+        div#1:23 "Container" {content-center flex-wrap gap-[16px] items-center pt-[8px]}
+         div#1:24 "Link" {bg-[#fffcf8] h-[48px] items-center px-[24px] rounded-[8px]}
+          div#1:25 "Container"
+           div#1:26 {Jost600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Explore the collection
+         div#1:27 "Link" {border border-[#756960] h-[48px] items-center px-[25px] py-px rounded-[8px]}
+          div#1:28 "Container"
+            div#1:29 {Jost600 text-[#f7f2ea] text-[14px]}
+             p {leading-[17px]} :: Request a custom piece
+       div#1:30 "Background+Border" {border border-[#40352e] col-[7/span_6] gap-[12px] items-center justify-self-stretch px-[33px] py-[145.5px] rounded-[20px] row-1 self-center}
+        img {inset-0 object-cover pointer-events-none rounded-[20px]} SRC=imgBackgroundBorder
+        div#1:31 "Container" {size-[40px]}
+        div#1:33 "Container" {h-[17px] w-[180.98px]}
+        div#1:35 "Container" {h-[42px] max-w-[384px] w-[384px]}
+     div#1:37 "Section - SECTION 04: BRAND VALUE / INTRODUCTION (LIGHT CREAM)" {bg-[#f7f2ea] border-[#e7ded3] border-b pb-[65px] pt-[64px]}
+      div#1:38 "Container" {max-w-[1280px]}
+       div {gap-[32px] px-[64px]}
+        div#1:39 "Container" {flex-[1_0_0] gap-[8px]}
+         div#1:40 "Container" {gap-[8px] items-center}
+          div#1:41 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer
+          div#1:43 "Container"
+           div#1:44 {Jost600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Handcrafted in Sudbury, Ontario
+         div#1:45 "Container"
+          div#1:46 {Jost400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Every wallet, strap, belt, and sheath is made one
+           p {leading-[26px]} :: piece at a time in our Sudbury workshop.
+        div#1:47 "Container" {flex-[1_0_0] gap-[8px]}
+         div#1:48 "Container" {gap-[8px] items-center}
+          div#1:49 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer1
+          div#1:51 "Container"
+           div#1:52 {Jost600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Full-grain leather
+         div#1:53 "Container"
+          div#1:54 {Jost400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Crafted with full-grain leather chosen for natural
+           p {leading-[26px]} :: character, clean grain, and tactile finish.
+        div#1:55 "Container" {flex-[1_0_0] gap-[8px]}
+         div#1:56 "Container" {gap-[8px] items-center}
+          div#1:57 "Container" {size-[20px]}
+           img {inset-0} SRC=imgContainer2
+          div#1:59 "Container"
+           div#1:60 {Jost600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Custom orders welcome
+         div#1:61 "Container"
+          div#1:62 {Jost400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Share your idea, measurements, and reference
+           p {leading-[26px]} :: images for a tailored custom-order quote.
+     div#1:63 "Section - SECTION 05: FEATURED PRODUCT COLLECTION (LIGHT CREAM)" {bg-[#f7f2ea] py-[96px]}
+      div#1:64 "Container" {gap-[40px] max-w-[1280px] px-[64px]}
+       div#1:65 "Container" {items-end justify-between}
+        div#1:66 "Container" {gap-[12px] max-w-[576px]}
+         div#1:67 "Container"
+          div#1:68 {Jost600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+           p {leading-[17px]} :: FEATURED COLLECTION
+         div#1:69 "Heading 2"
+          div#1:70 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+           p {leading-[52px]} :: Crafted for everyday life.
+         div#1:71 "Container"
+          div#1:72 {Jost400 text-[#5c5048] text-[16px]}
+           p {leading-[26px] mb-0} :: Explore handcrafted leather goods designed for everyday use and
+           p {leading-[26px]} :: personal expression.
+        div#1:73 "Link" {bg-[#fffcf8] border border-[#d8cec2] h-[48px] items-center px-[25px] py-px rounded-[8px]}
+         div#1:74 "Container"
+           div#1:75 {Jost600 text-[#2b1d17] text-[14px]}
+            p {leading-[17px]} :: Explore all products
+       div#1:76 "Prioritised 4 Featured Products" {gap-[24px]}
+        div#1:77 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:78 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground
+          div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+           div#1:79 "Container" {size-[28px]}
+           div#1:81 "Container" {h-[21px] w-[154.84px]}
+         div#1:83 "Container"
+          div {gap-[25px] p-[20px]}
+           div#1:84 "Container"
+            div#1:85 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Classic Leather Bifold Wallet
+           div#1:86 "Container"
+            div#1:87 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $60.00
+        div#1:88 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:89 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground1
+          div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+           div#1:90 "Container" {size-[28px]}
+           div#1:92 "Container" {h-[21px] w-[154.84px]}
+         div#1:94 "Container"
+          div {gap-[25px] p-[20px]}
+           div#1:95 "Container"
+            div#1:96 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Classic Full-Grain Leather Belt
+           div#1:97 "Container"
+            div#1:98 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $65.00
+        div#1:99 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:100 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground2
+          div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+           div#1:101 "Container" {size-[28px]}
+           div#1:103 "Container" {h-[21px] w-[154.84px]}
+         div#1:105 "Container"
+          div {gap-[8px] p-[20px]}
+           div#1:106 "Container"
+            div#1:107 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px] mb-0} :: Personalized Leather
+             p {leading-[17px]} :: Camera Strap
+           div#1:108 "Container"
+            div#1:109 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $75.00
+        div#1:110 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:111 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground3
+          div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+           div#1:112 "Container" {size-[28px]}
+           div#1:114 "Container" {h-[21px] w-[154.84px]}
+         div#1:116 "Container"
+          div {gap-[25px] p-[20px]}
+           div#1:117 "Container"
+            div#1:118 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Personalized Leather Guitar Strap
+           div#1:119 "Container"
+            div#1:120 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $90.00
+       div#1:121 "Remaining 4 Catalogue Products (Complete 8-Product Catalogue)" {border-[#e7ded3] border-t gap-[24px] pt-[17px]}
+        div#1:122 "Container"
+         div {content-center flex-wrap gap-y-[8px] items-center justify-between}
+          div#1:123 "Heading 3"
+           div#1:124 {Jost600 text-[#2b1d17] text-[22px]}
+            p {leading-[29px]} :: More from the workshop
+          div#1:125 "Container"
+           div#1:126 {Jost400 text-[#5c5048] text-[14px]}
+            p {leading-[21px]} :: 8 pieces in catalogue
+        div#1:127 "Container"
+         div {gap-[24px]}
+          div#1:128 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+           div#1:129 "Background"
+            img {inset-0 object-cover pointer-events-none} SRC=imgBackground4
+            div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+             div#1:130 "Container" {size-[28px]}
+             div#1:132 "Container" {h-[21px] w-[154.84px]}
+           div#1:134 "Container"
+            div {gap-[8px] p-[20px]}
+             div#1:135 "Container"
+              div#1:136 {Jost600 text-[#211a16] text-[14px]}
+               p {leading-[17px]} :: Leather Car Key Fob Cover
+             div#1:137 "Container"
+              div#1:138 {Jost600 text-[#2b1d17] text-[16px]}
+               p {leading-[21px]} :: CAD $40.00
+          div#1:139 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+           div#1:140 "Background"
+            img {inset-0 object-cover pointer-events-none} SRC=imgBackground5
+            div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+             div#1:141 "Container" {size-[28px]}
+             div#1:143 "Container" {h-[21px] w-[154.84px]}
+           div#1:145 "Container"
+            div {gap-[8px] p-[20px]}
+             div#1:146 "Container"
+              div#1:147 {Jost600 text-[#211a16] text-[14px]}
+               p {leading-[17px]} :: Handmade Leather Watch Strap
+             div#1:148 "Container"
+              div#1:149 {Jost600 text-[#2b1d17] text-[16px]}
+               p {leading-[21px]} :: CAD $55.00
+          div#1:150 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+           div#1:151 "Background"
+            div {inset-0 overflow-hidden pointer-events-none}
+             img {h-full left-[-43.75%] top-0 w-[187.5%]} SRC=imgBackground6
+            div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+             div#1:152 "Container" {size-[28px]}
+             div#1:154 "Container" {h-[21px] w-[154.84px]}
+           div#1:156 "Container"
+            div {gap-[8px] p-[20px]}
+             div#1:157 "Container"
+              div#1:158 {Jost600 text-[#211a16] text-[14px]}
+               p {leading-[17px]} :: Premium Leather Dog Harness
+             div#1:159 "Container"
+              div#1:160 {Jost600 text-[#2b1d17] text-[16px]}
+               p {leading-[21px]} :: CAD $85.00
+          div#1:161 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+           div#1:162 "Background"
+            img {inset-0 object-cover pointer-events-none} SRC=imgBackground7
+            div {gap-[8px] items-center px-[16px] py-[139px] rounded-[inherit]}
+             div#1:163 "Container" {size-[28px]}
+             div#1:165 "Container" {h-[21px] w-[154.84px]}
+           div#1:167 "Container"
+            div {gap-[8px] p-[20px]}
+             div#1:168 "Container"
+              div#1:169 {Jost600 text-[#211a16] text-[14px]}
+               p {leading-[17px]} :: Handcrafted Leather Axe Sheath
+             div#1:170 "Container"
+              div#1:171 {Jost600 text-[#2b1d17] text-[16px]}
+               p {leading-[21px]} :: CAD $55.00
+     div#1:172 "Section - SECTION 06: CRAFTSMANSHIP STORY (DARK ESPRESSO)" {bg-[#2b1d17] py-[96px]}
+      div#1:173 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_392.50px] max-w-[1280px] px-[64px]}
+       div#1:174 "Container" {col-[1/span_5] gap-[24px] justify-self-stretch row-1 self-center}
+        div#1:175 "Container"
+         div#1:176 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: CRAFTSMANSHIP
+        div#1:177 "Heading 2"
+         div#1:178 {Corm600 text-[#fffcf8] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: The beauty is
+          p {leading-[52px]} :: in the details.
+        div#1:179 "Container"
+         div#1:180 {Jost400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: Every piece at Leyte Leather is built one at a time,
+          p {leading-[30px] mb-0} :: giving attention to the natural grain of the hide, clean
+          p {leading-[30px]} :: stitching, finished edges, and hardware selection.
+        div#1:181 "Container" {pt-[8px]}
+         div#1:182 "Link" {bg-[#fffcf8] items-center px-[24px] py-[15.5px] rounded-[8px]}
+          div#1:183 {Jost600 text-[#2b1d17] text-[14px]}
+           p {leading-[17px]} :: Discover our approach
+       div#1:184 "Container" {col-[6/span_7] gap-[24px] h-[392.5px] justify-self-stretch row-1 self-center}
+        div#1:190 "Background+Border" {border border-[#40352e] flex-[1_0_0] gap-[8px] items-center px-[25px] py-[167.75px] rounded-[16px]}
+         img {inset-0 object-cover pointer-events-none rounded-[16px]} SRC=imgBackgroundBorder1
+         div#1:191 "Container" {size-[28px]}
+         div#1:193 "Container" {h-[21px] w-[215px]}
+        div#1:185 "Background+Border" {border border-[#40352e] flex-[1_0_0] gap-[8px] items-center px-[25px] py-[167.75px] rounded-[16px]}
+         div {inset-0 overflow-hidden pointer-events-none rounded-[16px]}
+          img {h-full left-[-43.75%] top-0 w-[187.5%]} SRC=imgBackgroundBorder2
+         div#1:186 "Container" {size-[28px]}
+         div#1:188 "Container" {h-[21px] w-[198.52px]}
+     div#1:195 "Section - SECTION 07: PRODUCT CATEGORY DISCOVERY (LIGHT CREAM)" {bg-[#f7f2ea] py-[96px]}
+      div#1:196 "Container" {gap-[40px] max-w-[1280px] px-[64px]}
+       div#1:197 "Container" {gap-[12px] max-w-[576px] w-[576px]}
+        div#1:198 "Container"
+         div#1:199 {Jost600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: BROWSE BY CATEGORY
+        div#1:200 "Heading 2"
+         div#1:201 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Explore the
+          p {leading-[52px]} :: workshop catalogue.
+       div#1:202 "Container" {gap-[24px]}
+        div#1:203 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:204 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground4
+          div {gap-[8px] items-center px-[24px] py-[108.75px]}
+           div#1:205 "Container" {size-[28px]}
+           div#1:207 "Container" {h-[21px] w-[169.61px]}
+         div#1:209 "Container"
+          div {gap-[38px] p-[24px]}
+           div#1:210 "Container" {gap-[8px]}
+            div#1:211 "Heading 3"
+             div#1:212 {Jost600 text-[#2b1d17] text-[22px]}
+              p {leading-[29px]} :: Everyday Essentials
+            div#1:213 "Container"
+             div#1:214 {Jost400 text-[#5c5048] text-[16px]}
+              p {leading-[26px]} :: Wallets, belts, and car key-fob covers.
+           div#1:215 "Container" {gap-[4px] items-center}
+            div#1:216 {Jost600 text-[#8a5136] text-[14px]}
+             p {leading-[17px]} :: View essentials
+            div#1:217 "Container" {size-[18px]}
+             img {inset-0} SRC=imgContainer3
+        div#1:219 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:220 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground8
+          div {gap-[8px] items-center px-[24px] py-[108.75px]}
+           div#1:221 "Container" {size-[28px]}
+           div#1:223 "Container" {h-[21px] w-[206.72px]}
+         div#1:225 "Container"
+          div {gap-[12px] p-[24px]}
+           div#1:226 "Container" {gap-[8px]}
+            div#1:227 "Heading 3"
+             div#1:228 {Jost600 text-[#2b1d17] text-[22px]}
+              p {leading-[29px]} :: Personalised Gear
+            div#1:229 "Container"
+             div#1:230 {Jost400 text-[#5c5048] text-[16px]}
+              p {leading-[26px] mb-0} :: Camera straps, guitar straps, and watch
+              p {leading-[26px]} :: straps.
+           div#1:231 "Container" {gap-[4px] items-center}
+            div#1:232 {Jost600 text-[#8a5136] text-[14px]}
+             p {leading-[17px]} :: View accessories
+            div#1:233 "Container" {size-[18px]}
+             img {inset-0} SRC=imgContainer3
+        div#1:235 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px] self-stretch}
+         div#1:236 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground9
+          div {gap-[8px] items-center px-[24px] py-[108.75px]}
+           div#1:237 "Container" {size-[28px]}
+           div#1:239 "Container" {h-[21px] w-[182.98px]}
+         div#1:241 "Container"
+          div {gap-[12px] p-[24px]}
+           div#1:242 "Container" {gap-[8px]}
+            div#1:243 "Heading 3"
+             div#1:244 {Jost600 text-[#2b1d17] text-[22px]}
+              p {leading-[29px]} :: Lifestyle and Outdoor
+            div#1:245 "Container"
+             div#1:246 {Jost400 text-[#5c5048] text-[16px]}
+              p {leading-[26px] mb-0} :: Dog harnesses and handcrafted axe
+              p {leading-[26px]} :: sheaths.
+           div#1:247 "Container" {gap-[4px] items-center}
+            div#1:248 {Jost600 text-[#8a5136] text-[14px]}
+             p {leading-[17px]} :: View outdoor goods
+            div#1:249 "Container" {size-[18px]}
+             img {inset-0} SRC=imgContainer3
+     div#1:251 "Section - SECTION 08: PERSONALISATION STORY (LIGHT PARCHMENT)" {bg-[#eee5d8] py-[96px]}
+      div#1:252 "Container" {gap-x-[40px] gap-y-[40px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_513.08px] max-w-[1280px] px-[64px]}
+       div#1:253 "Container" {col-[1/span_5] gap-[24px] justify-self-stretch row-1 self-center}
+        div#1:254 "Container"
+         div#1:255 {Jost600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: INDIVIDUALITY
+        div#1:256 "Heading 2"
+         div#1:257 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px]} :: Make it personal.
+        div#1:258 "Container"
+         div#1:259 {Jost400 text-[#40352e] text-[18px]}
+          p {leading-[30px] mb-0} :: Selected pieces in the Leyte Leather catalogue—
+          p {leading-[30px] mb-0} :: including our Personalized Leather Camera Strap and
+          p {leading-[30px] mb-0} :: Personalized Leather Guitar Strap—are available with
+          p {leading-[30px]} :: personalisation so your piece is unmistakably yours.
+        div#1:260 "Container" {pt-[8px]}
+         div#1:261 "Link" {bg-[#2b1d17] items-center px-[24px] py-[15.5px] rounded-[8px]}
+          div#1:262 {Jost600 text-[#fffcf8] text-[14px]}
+           p {leading-[17px]} :: Explore personalised products
+       div#1:263 "Container" {col-[6/span_7] gap-[23.99px] h-[513.08px] justify-self-stretch row-1 self-center}
+        div#1:264 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px]}
+         div#1:265 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground10
+          div {gap-[8px] items-center px-[24px] py-[167.53px]}
+           div#1:266 "Container" {size-[28px]}
+           div#1:268 "Container" {h-[21px] w-[131.92px]}
+         div#1:270 "Container"
+          div {gap-[8px] p-[20px]}
+           div#1:271 "Background:align-flex-start"
+            div#1:272 "Background" {bg-[#eee5d8] items-center px-[12px] py-[4px] rounded-[4px]}
+             div#1:273 {Jost600 text-[#2b1d17] text-[12px] tracking-[0.4px]}
+              p {leading-[17px]} :: Personalisation available
+           div#1:274 "Container"
+            div#1:275 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Personalized Leather Camera Strap
+           div#1:276 "Container"
+            div#1:277 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $75.00
+        div#1:278 "Link" {bg-[#fffcf8] border border-[#e7ded3] flex-[1_0_0] p-px rounded-[12px]}
+         div#1:279 "Background"
+          img {inset-0 object-cover pointer-events-none} SRC=imgBackground3
+          div {gap-[8px] items-center pb-[167.55px] pt-[167.53px] px-[24px]}
+           div#1:280 "Container" {size-[28px]}
+           div#1:282 "Container" {h-[21px] w-[121.33px]}
+         div#1:284 "Container"
+          div {gap-[8px] p-[20px]}
+           div#1:285 "Background:align-flex-start"
+            div#1:286 "Background" {bg-[#eee5d8] items-center px-[12px] py-[4px] rounded-[4px]}
+             div#1:287 {Jost600 text-[#2b1d17] text-[12px] tracking-[0.4px]}
+              p {leading-[17px]} :: Personalisation available
+           div#1:288 "Container"
+            div#1:289 {Jost600 text-[#211a16] text-[14px]}
+             p {leading-[17px]} :: Personalized Leather Guitar Strap
+           div#1:290 "Container"
+            div#1:291 {Jost600 text-[#2b1d17] text-[16px]}
+             p {leading-[21px]} :: CAD $90.00
+     div#1:292 "Section - SECTION 09: CUSTOM ORDERS FEATURE (DARK)" {bg-[#1d1511] py-[96px]}
+      div#1:293 "Container" {gap-x-[48px] gap-y-[48px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_381px] max-w-[1280px] px-[64px]}
+       div#1:294 "Container" {col-[1/span_5] gap-[24px] justify-self-stretch row-1 self-start}
+        div#1:295 "Container"
+         div#1:296 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: BESPOKE COMMISSIONS
+        div#1:297 "Heading 2"
+         div#1:298 {Corm600 text-[#fffcf8] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px] mb-0} :: Have something
+          p {leading-[52px]} :: different in mind?
+        div#1:299 "Container"
+         div#1:300 {Jost400 text-[#eee5d8] text-[18px]}
+          p {leading-[30px] mb-0} :: {`Tell us what you have in mind. We'll review your`}
+          p {leading-[30px] mb-0} :: request and email a quote. Once accepted, a deposit
+          p {leading-[30px]} :: secures your spot in the queue.
+        div#1:301 "Container" {pt-[8px]}
+         div#1:302 "Link" {bg-[#fffcf8] items-center px-[24px] py-[15.5px] rounded-[8px]}
+          div#1:303 {Jost600 text-[#2b1d17] text-[14px]}
+           p {leading-[17px]} :: Request a custom piece
+       div#1:304 "Background+Border" {bg-[#2b1d17] border border-[#40352e] col-[6/span_7] gap-[24px] justify-self-stretch p-[33px] rounded-[16px] row-1 self-start}
+        div#1:305 "Heading 3"
+          div#1:306 {Jost600 text-[#fffcf8] text-[22px]}
+           p {leading-[29px]} :: Custom order process
+        div#1:307 "Ordered List"
+         div {gap-[16px]}
+          div#1:308 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:309 {Jost600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 01
+           div#1:310 {Jost400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Share your idea
+          div#1:311 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:312 {Jost600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 02
+           div#1:313 {Jost400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Provide measurements and specifications
+          div#1:314 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:315 {Jost600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 03
+           div#1:316 {Jost400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Upload reference images
+          div#1:317 "Item" {border-[#40352e] border-b gap-[16px] pb-[17px]}
+           div#1:318 {Jost600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 04
+           div#1:319 {Jost400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Receive a quotation by email
+          div#1:320 "Item" {gap-[16px]}
+           div#1:321 {Jost600 text-[#a88752] text-[14px]}
+            p {leading-[17px]} :: 05
+           div#1:322 {Jost400 text-[#f7f2ea] text-[16px]}
+            p {leading-[26px]} :: Accept the quote and secure your production spot with a deposit
+     div#1:323 "Section - SECTION 10: BRAND STORY / ABOUT (LIGHT CREAM)" {bg-[#f7f2ea] py-[96px]}
+      div#1:324 "Container" {gap-x-[40px] gap-y-[40px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_417px] max-w-[1280px] px-[64px]}
+       div#1:325 "Background+Border" {border border-[#e7ded3] col-[1/span_6] gap-[12px] items-center justify-self-stretch px-[33px] py-[176px] rounded-[20px] row-1 self-center}
+        img {inset-0 object-cover pointer-events-none rounded-[20px]} SRC=imgBackgroundBorder3
+        div#1:326 "Container" {size-[32px]}
+        div#1:328 "Container" {h-[21px] w-[341.38px]}
+       div#1:330 "Container" {col-[7/span_6] gap-[24px] justify-self-stretch row-1 self-center}
+        div#1:331 "Container"
+         div#1:332 {Jost600 text-[#8a5136] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: ABOUT LEYTE LEATHER
+        div#1:333 "Heading 2"
+         div#1:334 {Corm600 text-[#2b1d17] text-[48px] tracking-[-0.25px]}
+          p {leading-[52px]} :: One piece at a time.
+        div#1:335 "Container" {max-w-[800.2750244140625px]}
+         div#1:336 {Jost400 text-[#5c5048] text-[18px]}
+          p {leading-[30px] mb-0} :: Based in Sudbury, Ontario, Leyte Leather crafts functional
+          p {leading-[30px] mb-0} :: leather goods—from wallets and belts to camera straps, guitar
+          p {leading-[30px] mb-0} :: straps, dog harnesses, and axe sheaths—alongside bespoke
+          p {leading-[30px]} :: custom commissions.
+        div#1:337 "Container" {pt-[8px]}
+         div#1:338 "Link" {bg-[#fffcf8] border border-[#d8cec2] items-center px-[25px] py-[15.5px] rounded-[8px]}
+          div#1:339 {Jost600 text-[#2b1d17] text-[14px]}
+           p {leading-[17px]} :: Discover our story
+     div#1:340 "Section - SECTION 11: FINAL CONVERSION SECTION (LIGHT PARCHMENT)" {bg-[#eee5d8] border-[#e7ded3] border-t pb-[80px] pt-[81px] px-[280px]}
+      div#1:341 "Container" {max-w-[720px]}
+       div {gap-[24px] items-center px-[32px]}
+        div#1:342 {Corm600 text-[#2b1d17] text-[48px] text-center tracking-[-0.25px]}
+         p {leading-[52px]} :: Find something made for you.
+        div#1:343 "Container" {content-center flex-wrap gap-[16px_16.01px] items-center}
+         div#1:344 "Link" {bg-[#2b1d17] h-[48px] items-center px-[24px] rounded-[8px]}
+          div#1:345 "Container" {items-center}
+           div#1:346 {Jost600 text-[#fffcf8] text-[14px] text-center}
+            p {leading-[17px]} :: Explore the collection
+         div#1:347 "Link" {bg-[#fffcf8] border border-[#d8cec2] h-[48px] items-center px-[25px] py-px rounded-[8px]}
+          div#1:348 "Container"
+           div {items-center}
+            div#1:349 {Jost600 text-[#2b1d17] text-[14px] text-center}
+             p {leading-[17px]} :: Request a custom piece
+    div#1:350 "Footer - SECTION 12: GLOBAL FOOTER (DARK)" {bg-[#1d1511] border-[#40352e] border-t left-0 pb-[64px] pt-[65px] right-0 top-[5841.08px]}
+     div#1:351 "Container" {max-w-[1280px]}
+      div {gap-x-[40px] gap-y-[40px] grid grid-cols-[repeat(12,minmax(0,1fr))] grid-rows-[_117px] px-[64px]}
+       div#1:352 "Container" {col-[1/span_5] gap-[16px] justify-self-stretch pb-[22px] row-1 self-start}
+        div#1:353 "Container"
+         div#1:354 {Corm600 text-[#fffcf8] text-[32px]}
+          p {leading-[37px]} :: Leyte Leather
+        div#1:355 "Container" {max-w-[384px] w-[384px]}
+         div#1:356 {Jost400 text-[#eee5d8] text-[14px]}
+          p {leading-[21px] mb-0} :: Handcrafted leather goods made one piece at a time in
+          p {leading-[21px]} :: Sudbury, Ontario, Canada.
+       div#1:357 "Container" {col-[6/span_2] gap-[12px] justify-self-stretch row-1 self-start}
+        div#1:358 "Heading 3"
+         div#1:359 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: SHOP
+        div#1:360 "List" {gap-[8px]}
+         div#1:361 "Item" {py-[1.5px]}
+          div#1:362 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: All products
+         div#1:363 "Item" {py-[1.5px]}
+          div#1:364 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Custom orders
+         div#1:365 "Item" {py-[1.5px]}
+          div#1:366 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Gallery
+       div#1:367 "Container" {col-[8/span_3] gap-[12px] justify-self-stretch row-1 self-start}
+        div#1:368 "Heading 3"
+         div#1:369 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: ACCOUNT
+        div#1:370 "List" {gap-[8px]}
+         div#1:371 "Item" {py-[1.5px]}
+          div#1:372 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: My account
+         div#1:373 "Item" {py-[1.5px]}
+          div#1:374 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Order history
+         div#1:375 "Item" {py-[1.5px]}
+          div#1:376 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Sign in
+       div#1:377 "Container" {col-[11/span_2] gap-[12px] justify-self-stretch pb-[32px] row-1 self-start}
+        div#1:378 "Heading 3"
+         div#1:379 {Jost600 text-[#a88752] text-[12px] tracking-[0.6px] uppercase}
+          p {leading-[17px]} :: ABOUT
+        div#1:380 "List" {gap-[8px]}
+         div#1:381 "Item" {py-[1.5px]}
+          div#1:382 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Our story
+         div#1:383 "Item" {py-[1.5px]}
+          div#1:384 {Jost400 text-[#f7f2ea] text-[14px]}
+           p {leading-[21px]} :: Shopping cart
+    div#1:385 "Header - SECTION 02: GLOBAL HEADER" {bg-[#f7f2ea] border-[#e7ded3] border-b left-0 pb-px right-0 top-[38px]}
+     div#1:386 "Container" {h-[72px] max-w-[1280px]}
+      div {items-center justify-between px-[64px]}
+       div#1:387 "Link" {rounded-[4px]}
+        div#1:388 {Corm600 text-[#2b1d17] text-[32px] tracking-[-0.8px]}
+         p {leading-[37px]} :: Leyte Leather
+       div#1:389 "Nav - Primary navigation" {gap-[32px] items-center}
+        div#1:390 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:391 {Jost600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Shop
+        div#1:392 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:393 {Jost600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Custom Orders
+        div#1:394 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:395 {Jost600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: Gallery
+        div#1:396 "Link" {border-[rgba(0,0,0,0)] border-b-2 pb-[10px] pt-[8px]}
+         div#1:397 {Jost600 text-[#211a16] text-[14px]}
+          p {leading-[17px]} :: About
+       div#1:398 "Container" {gap-[12px] items-center}
+        div#1:399 "Link - Account" {gap-[8px] items-center min-h-[44px] p-[12px] rounded-[8px]}
+         div#1:400 "Container" {size-[20px]}
+          img {inset-0} SRC=imgContainer4
+         div#1:402 "Container"
+          div#1:403 {Jost600 text-[#211a16] text-[14px]}
+           p {leading-[17px]} :: Account
+        div#1:404 "Button - Shopping cart, 0 items" {bg-[#fffcf8] border border-[#d8cec2] gap-[8px] items-center min-h-[44px] px-[13px] py-[12px] rounded-[8px]}
+         div#1:405 "Container" {size-[20px]}
+          img {inset-0} SRC=imgContainer5
+         div#1:407 "Container"
+          div {items-center}
+           div#1:408 {Jost600 text-[#2b1d17] text-[14px] text-center}
+            p {leading-[17px]} :: Cart
+         div#1:409 "Background" {bg-[#2b1d17] h-[20px] min-w-[20px] rounded-[999px]}
+          div {items-center px-[5.61px]}
+           div#1:410 "Container" {items-center}
+            div#1:411 {Jost600 text-[#fffcf8] text-[12px] text-center tracking-[0.4px]}
+             p {leading-[17px]} :: 0

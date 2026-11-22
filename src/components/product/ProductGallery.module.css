@@ -1,0 +1,117 @@
+/* Product gallery (Figma customiser left column 1:1782: 4:5 main image, radius 16, 129px square thumbs, 12px gap). */
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.main {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  border: var(--border-subtle);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  background: var(--color-brand-parchment);
+}
+.main img {
+  object-fit: cover;
+}
+.controls {
+  position: absolute;
+  right: var(--space-4);
+  bottom: var(--space-4);
+  display: flex;
+  gap: var(--space-2);
+}
+.control {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: var(--color-brand-white);
+  color: var(--color-brand-espresso);
+  box-shadow: var(--shadow-sm);
+  transition: background-color var(--motion-fast) var(--motion-ease);
+}
+.control:hover {
+  background: var(--color-brand-parchment);
+}
+.counter {
+  position: absolute;
+  left: var(--space-4);
+  bottom: var(--space-4);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 252, 248, 0.92);
+  color: var(--color-brand-espresso);
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+}
+.thumbs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-3);
+}
+.thumb {
+  position: relative;
+  aspect-ratio: 1;
+  padding: 0;
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--color-brand-parchment);
+  opacity: 0.85;
+  transition: opacity var(--motion-fast) var(--motion-ease), border-color var(--motion-fast) var(--motion-ease);
+}
+.thumb img {
+  object-fit: cover;
+}
+.thumb:hover {
+  opacity: 1;
+}
+.thumb[aria-current="true"] {
+  opacity: 1;
+  border: 2px solid var(--color-brand-saddle);
+}
+
+/* Lightbox */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay);
+  background: rgba(29, 21, 17, 0.92);
+}
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: calc(var(--z-overlay) + 1);
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-4);
+  gap: var(--space-4);
+}
+.lightboxHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--color-brand-cream);
+}
+.lightboxTitle {
+  font-size: var(--type-body-s);
+  font-weight: 600;
+}
+.lightboxImage {
+  position: relative;
+  flex: 1;
+}
+.lightboxImage img {
+  object-fit: contain;
+}
+.lightboxNav {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-3);
+}

@@ -1,0 +1,170 @@
+.filters {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.tabs {
+  display: flex;
+  gap: var(--space-2);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tab {
+  flex: none;
+  min-height: 44px;
+  padding: 0 var(--space-4);
+  border: var(--border-default);
+  border-radius: var(--radius-md);
+  background: var(--color-brand-white);
+  font-size: var(--type-button);
+  font-weight: 600;
+  color: var(--color-brand-espresso);
+}
+.tab[aria-pressed="true"] {
+  background: var(--color-brand-espresso);
+  border-color: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.order {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+@media (min-width: 640px) {
+  .order {
+    padding: 25px;
+  }
+}
+.orderHead {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding-bottom: 17px;
+  border-bottom: var(--border-subtle);
+}
+.orderNumber {
+  font-size: var(--type-h4);
+  line-height: var(--lh-h4);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.orderDate {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+.orderBody {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-4);
+}
+.item {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  min-width: 0;
+}
+.thumb {
+  position: relative;
+  width: 64px;
+  aspect-ratio: 4 / 5;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  flex: none;
+  background: var(--color-brand-parchment);
+}
+.thumb img {
+  object-fit: cover;
+}
+.itemName {
+  font-weight: 600;
+  font-size: var(--type-body);
+  line-height: 26px;
+  color: var(--color-neutral-950);
+}
+.itemMeta {
+  font-size: var(--type-body-s);
+  color: var(--color-neutral-700);
+}
+.total {
+  text-align: right;
+  flex: none;
+}
+.totalLabel {
+  font-size: 12px;
+  line-height: 17px;
+  color: var(--color-neutral-700);
+}
+.totalValue {
+  font-size: var(--type-price);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+  font-variant-numeric: tabular-nums;
+}
+.orderFoot {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: var(--space-3);
+  padding-top: 13px;
+  border-top: var(--border-subtle);
+}
+.footNote {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+}
+.footButton {
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .orderFoot {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 9px;
+  }
+  .footButton {
+    width: auto;
+  }
+}
+.itemLines {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+/* Mobile order card (Figma 1:4015): total moves to its own bordered row. */
+@media (max-width: 639px) {
+  .orderBody {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .thumb {
+    width: 48px;
+  }
+  .total {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-top: 13px;
+    border-top: var(--border-subtle);
+    text-align: left;
+  }
+}

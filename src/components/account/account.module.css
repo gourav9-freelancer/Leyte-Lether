@@ -1,0 +1,305 @@
+/* Account area — Figma 1:2866 / 1:3699 / 3:2 (desktop) and mobile counterparts. */
+.section {
+  background: var(--color-brand-parchment);
+  padding: 40px 0 48px;
+  min-height: 60vh;
+}
+@media (min-width: 900px) {
+  .section {
+    padding: 65px 0 64px;
+  }
+}
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  max-width: 720px;
+  margin-bottom: var(--space-6);
+}
+@media (min-width: 900px) {
+  .intro {
+    margin-bottom: var(--space-8);
+  }
+}
+.title {
+  color: var(--color-brand-espresso);
+}
+.lead {
+  color: var(--color-neutral-700);
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+@media (min-width: 900px) {
+  .grid {
+    display: grid;
+    grid-template-columns: 264px minmax(0, 1fr);
+    gap: var(--space-8);
+    align-items: start;
+  }
+  .content {
+    max-width: 757px;
+  }
+}
+.nav {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  min-width: 0;
+}
+/* Mobile/tablet: section links scroll horizontally in one row (Figma 3:172). */
+.navLinks {
+  display: flex;
+  gap: var(--space-1);
+  overflow-x: auto;
+  scrollbar-width: none;
+  scroll-snap-type: x proximity;
+}
+.navLinks::-webkit-scrollbar {
+  display: none;
+}
+.navLinks .navLink {
+  flex: none;
+  width: auto;
+  gap: var(--space-3);
+  padding: 0 var(--space-3);
+  scroll-snap-align: start;
+}
+@media (min-width: 900px) {
+  .nav {
+    position: sticky;
+    top: 96px;
+    padding: 12px;
+  }
+  .navLinks {
+    flex-direction: column;
+    overflow: visible;
+  }
+  .navLinks .navLink {
+    width: 100%;
+    gap: var(--space-4);
+    padding: 0 var(--space-4);
+  }
+}
+.navLink {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  min-height: 44px;
+  padding: 0 var(--space-4);
+  border: 0;
+  border-radius: var(--radius-md);
+  background: transparent;
+  font-size: var(--type-button);
+  line-height: 17px;
+  font-weight: 600;
+  color: var(--color-neutral-950);
+  text-align: left;
+  width: 100%;
+  transition: background-color var(--motion-fast) var(--motion-ease);
+}
+.navLink:hover {
+  background: var(--color-brand-parchment);
+}
+.navLink[aria-current="page"] {
+  background: var(--color-brand-espresso);
+  color: var(--color-brand-white);
+}
+.navDivider {
+  height: 1px;
+  margin: 4px 0;
+  background: var(--color-neutral-200);
+}
+.signOut {
+  color: var(--color-error);
+}
+.signOut:hover {
+  background: var(--color-error-bg);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  min-width: 0;
+}
+.panel {
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-xl);
+  padding: 21px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+@media (min-width: 640px) {
+  .panel {
+    padding: 33px;
+  }
+}
+.panelHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-3);
+  padding-bottom: var(--space-4);
+  border-bottom: var(--border-subtle);
+}
+.panelTitle {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 27px;
+  line-height: 32px;
+  color: var(--color-brand-espresso);
+}
+@media (min-width: 900px) {
+  .panelTitle {
+    font-size: 32px;
+    line-height: 37px;
+  }
+}
+.textLink {
+  font-size: var(--type-button);
+  line-height: 17px;
+  font-weight: 600;
+  color: var(--color-brand-saddle);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.textLink:hover {
+  color: var(--color-brand-espresso);
+}
+.details {
+  display: grid;
+  gap: var(--space-5);
+}
+@media (min-width: 640px) {
+  .details {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.detailLabel {
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--color-neutral-700);
+  margin-bottom: 4px;
+}
+.detailValue {
+  font-size: var(--type-body);
+  line-height: 26px;
+  color: var(--color-neutral-950);
+  overflow-wrap: anywhere;
+}
+.muted {
+  color: var(--color-neutral-600);
+}
+.cards {
+  display: grid;
+  gap: var(--space-4);
+}
+@media (min-width: 640px) {
+  .cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+.card {
+  position: relative;
+  background: var(--color-brand-white);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6) 20px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  transition: border-color var(--motion-fast) var(--motion-ease);
+}
+.card:hover {
+  border-color: var(--color-neutral-300);
+}
+.card svg:first-child {
+  color: var(--color-brand-saddle);
+}
+.cardTitle {
+  font-size: var(--type-h4);
+  line-height: var(--lh-h4);
+  font-weight: 600;
+  color: var(--color-neutral-950);
+}
+.cardText {
+  font-size: var(--type-body-s);
+  line-height: 21px;
+  color: var(--color-neutral-700);
+  flex: 1;
+}
+.card a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+.strip {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: 20px 24px;
+  border-radius: var(--radius-lg);
+  background: var(--color-brand-cream);
+  border: var(--border-subtle);
+  font-size: var(--type-body-s);
+  color: var(--color-neutral-800);
+}
+.stripLinks {
+  display: flex;
+  gap: var(--space-5);
+}
+@media (min-width: 640px) {
+  .strip {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+.formActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  padding-top: var(--space-2);
+}
+
+/* Loading skeleton sizes */
+.skelEyebrow {
+  width: 96px;
+  height: 12px;
+}
+.skelTitle {
+  width: min(320px, 70%);
+  height: 40px;
+}
+.skelLine {
+  width: min(420px, 90%);
+  height: 16px;
+}
+.skelShort {
+  width: 45%;
+  height: 16px;
+}
+.skelNav {
+  height: 36px;
+  width: 100%;
+  min-width: 120px;
+}
